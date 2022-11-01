@@ -50,16 +50,28 @@ int main(){
   //   cout << "NIE";
   // }
   // Zad.6
-  int a;
-  int p;
-  cin >> a;
-  cin >> p;
-  if (pow(a,p)%p==0){
-    cout << "Podana liczba jest liczba pierwsza";
-  }
-  else{
-    cout << "Podana liczba nie jest liczba pierwsza";
-  }
-  Zad.7
+  // int a;
+  // int p;
+  // cin >> a;
+  // cin >> p;
+  // if (pow(a,p)%p==0){
+  //   cout << "Podana liczba jest liczba pierwsza";
+  // }
+  // else{
+  //   cout << "Podana liczba nie jest liczba pierwsza";
+  // }
+  // Zad.7
+  // int p;
+  // int s;
+  // int k;
+  // cin >> p;
+  // cin >> k;
+  // cin >> s;
+  // if (k-p<=3*s){
+  //   cout << "Da rade skoczyc";
+  // }
+  // else{
+  //   cout << "Nie da rady skoczyc";
+  // }
   return 0
 }
