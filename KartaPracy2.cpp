@@ -1,4 +1,5 @@
 #include<iostream>
+#include<math.h>
 using namespace std;
 int main(){
   // Zad.1
@@ -53,6 +54,12 @@ int main(){
   int p;
   cin >> a;
   cin >> p;
-  
+  if (pow(a,p)%p==0){
+    cout << "Podana liczba jest liczba pierwsza";
+  }
+  else{
+    cout << "Podana liczba nie jest liczba pierwsza";
+  }
+  Zad.7
   return 0
 }
