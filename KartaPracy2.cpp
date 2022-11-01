@@ -51,6 +51,8 @@ int main(){
   // Zad.6
   int a;
   int p;
-  cin >> a,p;
+  cin >> a;
+  cin >> p;
+  
   return 0
 }
