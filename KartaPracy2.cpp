@@ -13,7 +13,7 @@ int main(){
   // Zad.2
   // int a;
   // cin >> a;
-  // if (99<a<1000 || a%17==0){
+  // if (99<a<1000 && a%17==0){
   //   cout << "Podana liczba spelnia oba warunki";
   // }
   // else{
@@ -39,6 +39,18 @@ int main(){
   //   cout << "Pojazd o podanej wadze niemoze wjechac na most";
   // }
   // Zad.5
-  
+  // int a;
+  // int b;
+  // int c;
+  // if (a<c and c>b or c<b and c>a){
+  //   cout << "TAK";
+  // }
+  // else{
+  //   cout << "NIE";
+  // }
+  // Zad.6
+  int a;
+  int p;
+  cin >> a,p;
   return 0
 }
