@@ -6,7 +6,7 @@ int main(){
   // int a;
   // cin >> a;
   // if (a%3==0){
-  //   cout << "Podana liczba dzilei sie przez 3";
+  //   cout << "Podana liczba dzieli sie przez 3";
   // }
   // else {
   //   cout << "Podana liczba nie jest podzielna przez 3";
