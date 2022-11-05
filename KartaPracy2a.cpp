@@ -40,6 +40,10 @@ int main(){
     cout << "Tak, a i c";
   }
   else if (b==c){
-    cout << "Tak,"
+    cout << "Tak, b i c";
   }
+  else if (a==b==c){
+    cout << "Wszystkie sa rowne";
+  }
+  else
 }
