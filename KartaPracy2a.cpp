@@ -48,4 +48,17 @@ int main(){
 //   else{
 //     cout << "Zadna nie jest rowna";
 //   }
+// Zad.4
+  int a,b,c,d;
+  cout << "Podaj 4 liczby: "
+  cin >> a;
+  cin >> b;
+  cin >> c;
+  cin >> d;
+  if (a<b and a<c and a<d){
+  cout << "Liczba podana jako pierwsza jest najmniejsza";
+  }
+  else if (b<a and b<c and b<d){
+    cout << "Liczba "b" jest najmniejsza";
+  }
 }
