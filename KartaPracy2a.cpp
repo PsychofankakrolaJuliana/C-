@@ -56,9 +56,15 @@ int main(){
   cin >> c;
   cin >> d;
   if (a<b and a<c and a<d){
-  cout << "Liczba podana jako pierwsza jest najmniejsza";
+    cout << "Liczba "a" jest najmniejsza";
   }
   else if (b<a and b<c and b<d){
     cout << "Liczba "b" jest najmniejsza";
+  }
+  else if(c<a and c<b and c<d){
+    cout << "Liczba "c" jest najmniejsza";
+  }
+  else{
+    cout << "Liczba "d" jest najmniejsza";
   }
 }
