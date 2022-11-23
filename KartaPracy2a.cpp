@@ -79,5 +79,25 @@ int main(){
   // else{
   //   cout << "Podane liczby niespelniajannierownosci trojkata";
   // }
+  // Zad.6
+  // int a,b,c;
+  // cout << "Podaj trzy liczby w tym trzecia to najdluzszy bok: ";
+  // cin >> a;
+  // cin >> b;
+  // cin >> c;
+  // if (c<b or c<a){
+  // cout << "Ostatnia liczba nie jest najwieksza";
+  // }
+  // else{
+  //   if (c*c>a*a+b*b){
+  //     cout << "Podany trojkat jest rozwartokatny";
+  //   }
+  //   else if(c*c==a*a+b*b){
+  //     cout << "Podany trojkat jest prostokatny";
+  //   }
+  //   else{
+  //     cout << "Podany trojkat jest ostrokatny";
+  //   }
+  // }
   
 }
