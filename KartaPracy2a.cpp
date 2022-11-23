@@ -49,22 +49,35 @@ int main(){
 //     cout << "Zadna nie jest rowna";
 //   }
 // Zad.4
-  int a,b,c,d;
-  cout << "Podaj 4 liczby: "
-  cin >> a;
-  cin >> b;
-  cin >> c;
-  cin >> d;
-  if (a<b and a<c and a<d){
-    cout << "Liczba "a" jest najmniejsza";
-  }
-  else if (b<a and b<c and b<d){
-    cout << "Liczba "b" jest najmniejsza";
-  }
-  else if(c<a and c<b and c<d){
-    cout << "Liczba "c" jest najmniejsza";
-  }
-  else{
-    cout << "Liczba "d" jest najmniejsza";
-  }
+  // int a,b,c,d;
+  // cout << "Podaj 4 liczby: "
+  // cin >> a;
+  // cin >> b;
+  // cin >> c;
+  // cin >> d;
+  // if (a<b and a<c and a<d){
+  //   cout << "Liczba "a" jest najmniejsza";
+  // }
+  // else if (b<a and b<c and b<d){
+  //   cout << "Liczba "b" jest najmniejsza";
+  // }
+  // else if(c<a and c<b and c<d){
+  //   cout << "Liczba "c" jest najmniejsza";
+  // }
+  // else{
+  //   cout << "Liczba "d" jest najmniejsza";
+  // }
+  // Zad.5
+  // int a,b,c;
+  // cout << "Podaj trzy liczby: ";
+  // cin >> a;
+  // cin >> b;
+  // cin >> c;
+  // if (a<b+c and b<c+a and c<b+a){
+  //   cout << "Podane liczby seplniają nierownosc trojkata";
+  // }
+  // else{
+  //   cout << "Podane liczby niespelniajannierownosci trojkata";
+  // }
+  
 }
