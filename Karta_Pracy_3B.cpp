@@ -42,4 +42,16 @@ int main()
 	//	suma = suma - x;
 	//}
 	//cout << "Nie podalas: " << suma;
+	//Zad.6
+	//int n;
+	//cout << "Podaj n: "
+	//cin >> n;
+	//int a = 0;
+	//int b = 1;
+	//cout << a;
+	//cout << b;
+	//for (int i = 0; i < n - 2; i++) {
+	//	a, b = b, a + b;
+	//	cout << b
+	//}
 }
