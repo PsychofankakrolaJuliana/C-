@@ -30,4 +30,16 @@ int main()
 	//	suma = suma + i;
 	//}
 	//cout << "Suma wszystkich liczb dwucyfrowych to: " << suma;
+	//Zad.5
+	//int n;
+	//cout << "Podaj n: ";
+	//cin >> n;
+	//int x;
+	//int suma = n * (n + 1) % 2;
+	//for (int i = 0; i <= n - 1; i++){
+	//	cout << "Podaj wsm nie wiem co: ";
+	//	cin >> x;
+	//	suma = suma - x;
+	//}
+	//cout << "Nie podalas: " << suma;
 }
