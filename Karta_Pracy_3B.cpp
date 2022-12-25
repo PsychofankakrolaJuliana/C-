@@ -3,12 +3,12 @@ using namespace std;
 int main()
 {
 	//Zad.1
-// 	int i = 0;
-// 	while (i != 0) {
-// 		i++;
-// 		i = i ^ 3 + 3;
-// 		cout << i;
-// 	}
+	//int i = 0;
+	//while (i != 0) {
+	//	i++;
+	//	i = i ^ 3 + 3;
+	// 	cout << i;
+	//}
 	//Zad.2
 	//for (int i = 100; i < 1000; i++) {
 	//	if (i % 15 == 0) {
