@@ -34,4 +34,22 @@ int main()
     //    suma = suma + x;
     //}
     //cout << "Suma podanych liczb to: " << suma;
+    //Zad.6
+    //int k;
+    //int suma = 0;
+    //cout << "Podaj ile liczb chcesz: ";
+    //cin >> k;
+    //for (int i = 0; i <= k*2; i=i+2) {
+    //    suma = suma + i;
+    //}
+    //cout << "Suma " << k << " poczatkowych liczb parzystych to: " << suma;
+    //Zad.7
+    //int suma = 0;
+    //int m;
+    //cout << "Podaj ile chcesz iczb zsumowac: ";
+    //cin >> m;
+    //for (int i = 11; i <= 11+m * 2; i = i + 2) {
+    //    suma = suma + i;
+    //}
+    //cout << "Suma " << m << " poczatkowych liczb dwucyfrowych nieparzystych to: " << suma;
 }
