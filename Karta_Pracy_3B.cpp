@@ -52,4 +52,35 @@ int main()
     //    suma = suma + i;
     //}
     //cout << "Suma " << m << " poczatkowych liczb dwucyfrowych nieparzystych to: " << suma;
+    //Zad.8
+    //float k = 6 / 100;
+    //int wej;
+    //float l;
+    //cout << "Podaj kwote: ";
+    //cin >> wej;
+    //int wyj = wej;
+    //cout << "Podaj ile lat: ";
+    //cin >> l;
+    //float m = l * 12;
+    //for (int i = 1; i < m; i++) {
+    //    wyj = wej * k;
+    //}
+    //cout << "Twoja kwota wyjsciowa to: " << wyj;
+    //Zad.9
+    //int Basia;
+    //int suma_Basi = 0;
+    //cout << "Podaj ile liczb chcesz: ";
+    //cin >> Basia;
+    //for (int i = 0; i < Basia * 100; i++) {
+    //    if (i % 100 == 21) {
+    //        suma_Basi = suma_Basi + i;
+    //    }
+    //}
+    //cout << suma_Basi;
+    //Zad.10
+    //for (int i = 1; i < 1000; i++) {
+    //    if (i % 10 == sqrt(i) || i % 100 == sqrt(i)) {
+    //        cout << " " << i;
+    //    }
+    //}
 }
