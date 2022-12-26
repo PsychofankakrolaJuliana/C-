@@ -51,7 +51,8 @@ int main()
 	//cout << a;
 	//cout << b;
 	//for (int i = 0; i < n - 2; i++) {
-	//	a, b = b, a + b;
-	//	cout << b
+	//	b = a + b;
+	//	a = b;
+	//	cout << b;
 	//}
 }
