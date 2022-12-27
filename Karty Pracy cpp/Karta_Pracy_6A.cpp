@@ -29,7 +29,7 @@ int main()
     //else if(flaga==false) {
     //    cout << "Podana nie jest pierwsza";
     //}
-        //Zad.3
+    //Zad.3
     //int n;
     //int suma = 0;
     //cout << "Podaj liczbe: ";
@@ -44,5 +44,40 @@ int main()
     //}
     //else {
     //    cout << "Podana liczba nie jest doskonala";
+    //}
+    //Zad.4
+    //int a, b;
+    //cout << "Podaj liczbe: ";
+    //cin >> a;
+    //cout << "Podaj druga liczbe: ";
+    //cin >> b;
+    //int x = a;
+    //int y = b;
+    //if (x > y) {
+    //    x = x - y;
+    //}
+    //else {
+    //    y = y - x;
+    //}
+    //if (x == 1 or y == 1) {
+    //    cout << "Podane liczby sa wzglednie pierwsze";
+    //}
+    //else {
+    //    cout << "Podane liczby nie sa wzglednie pierwsze";
+    //}
+    //Zad.5 - do sprawdzenia
+    //int m;
+    //cout << "Podaj liczbe: ";
+    //cin >> m;
+    //for (int i = 10; i < 20; i++) {
+    //    if (i < m) {
+    //        i = i - m;
+    //    }
+    //    else {
+    //        m = m - i;
+    //    }
+    //    if (m == 1 or i == 1) {
+    //        cout << " " << i;
+    //    }
     //}
 }
