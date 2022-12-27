@@ -29,4 +29,20 @@ int main()
     //else if(flaga==false) {
     //    cout << "Podana nie jest pierwsza";
     //}
+        //Zad.3
+    //int n;
+    //int suma = 0;
+    //cout << "Podaj liczbe: ";
+    //cin >> n;
+    //for (int i = 1; i < n; i++) {
+    //    if (n % i == 0) {
+    //        suma = suma + i;
+    //    }
+    //}
+    //if (n == suma) {
+    //    cout << "Podana liczba jest doskonala";
+    //}
+    //else {
+    //    cout << "Podana liczba nie jest doskonala";
+    //}
 }
