@@ -130,4 +130,16 @@ int main()
     //else {
     //    cout << "Podane liczby nie sa zaprzyjaznionie";
     //}
+       //Zad.10
+    //int n;
+    //int x;
+    //int flaga = true;
+    //cout << "Podaj liczbe: ";
+    //cin >> n;
+    //for (int i = 2; i < n; i++) {
+    //    if (i % n == 0) {
+    //        cout << "Podana liczba nie jest pierwsza";
+    //        break;
+    //    }
+    //}
 }
