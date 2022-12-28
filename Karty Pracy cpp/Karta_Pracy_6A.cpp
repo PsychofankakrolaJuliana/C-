@@ -67,17 +67,24 @@ int main()
     //}
     //Zad.5 - do sprawdzenia
     //int m;
+    //int x = 0;
+    //int y = 0;
     //cout << "Podaj liczbe: ";
     //cin >> m;
     //for (int i = 10; i < 20; i++) {
-    //    if (i < m) {
-    //        i = i - m;
-    //    }
-    //    else {
-    //        m = m - i;
-    //    }
-    //    if (m == 1 or i == 1) {
-    //        cout << " " << i;
+    //    while (m != i) {
+    //        if (m < i) {
+    //            x = i - m;
+    //            if (x == 1) {
+    //                cout << " " << i;
+    //            }
+    //        }
+    //        else {
+    //            y = m - i;
+    //            if (y == 1) {
+    //                cout << " " << i;
+    //            }
+    //        }
     //    }
     //}
 }
