@@ -111,4 +111,23 @@ int main()
     //c = a / x;
     //d = b / y;
     //cout << a << "/" << b << "=" << c << "/" << d;
+        //Zad.8
+    //int a;
+    //int b;
+    //int suma = 0;
+    //cout << "Podaj liczbe: ";
+    //cin >> a;
+    //cout << "Podaj druga liczbe: ";
+    //cin >> b;
+    //for (int i = 1; i < a; i++) {
+    //    if (a % i == 0) {
+    //        suma = suma + i;
+    //    }
+    //}
+    //if (suma == b) {
+    //    cout << "Podane liczby sa zaprzyjaznione";
+    //}
+    //else {
+    //    cout << "Podane liczby nie sa zaprzyjaznionie";
+    //}
 }
