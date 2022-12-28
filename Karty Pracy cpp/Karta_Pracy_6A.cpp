@@ -87,4 +87,28 @@ int main()
     //        }
     //    }
     //}
+    //Zad.6 - tu też procesor wywala sie
+    //int a;
+    //int b;
+    //int c = 0;
+    //int d = 0;
+    //int x = 0;
+    //int y = 0;
+    //cout << "Podaj licznik: ";
+    //cin >> a;
+    //cout << "Podaj minaownik: ";
+    //cin >> b;
+    //x = a;
+    //y = b;
+    //while (x != y) {
+    //    if (x > y) {
+    //        x = x - y;
+    //    }
+    //    else if (y = y - x) {
+    //        y = y - x;
+    //    }
+    //}
+    //c = a / x;
+    //d = b / y;
+    //cout << a << "/" << b << "=" << c << "/" << d;
 }
