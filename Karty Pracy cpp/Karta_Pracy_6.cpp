@@ -31,9 +31,25 @@ int main()
     //for (int c = 10; c < 100; c++) {
     //    x = c % 10;
     //    y = c % 100;
-    //    if (y >= x) {
+    //    if (y >= x*2) {
     //        ilo = ilo + 1;
     //    }
     //}
     //cout << ilo;
+        //Zad.5
+    //int suma = 0;
+    //int ilo = 0;
+    //int a;
+    //int b;
+    //int c;
+    //for (int i = 100; i < 1000; i++) {
+    //    a = i % 10;
+    //    b = i % 100;
+    //    c = i % 1000;
+    //    if (c > a + b) {
+    //        suma = suma + i;
+    //        ilo = ilo + 1;
+    //    }
+    //}
+    //cout << suma << " i " << ilo;
 }
