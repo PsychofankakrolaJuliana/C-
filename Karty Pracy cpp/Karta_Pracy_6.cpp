@@ -24,4 +24,16 @@ int main()
     //    }
     //}
     //cout << ilo;
+        //Zad.4
+    //int x = 0;
+    //int y = 0;
+    //int ilo = 0;
+    //for (int c = 10; c < 100; c++) {
+    //    x = c % 10;
+    //    y = c % 100;
+    //    if (y >= x) {
+    //        ilo = ilo + 1;
+    //    }
+    //}
+    //cout << ilo;
 }
