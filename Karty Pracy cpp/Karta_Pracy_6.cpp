@@ -24,7 +24,7 @@ int main()
     //    }
     //}
     //cout << ilo;
-        //Zad.4
+    //Zad.4
     //int x = 0;
     //int y = 0;
     //int ilo = 0;
@@ -36,7 +36,7 @@ int main()
     //    }
     //}
     //cout << ilo;
-        //Zad.5
+    //Zad.5
     //int suma = 0;
     //int ilo = 0;
     //int a;
@@ -63,7 +63,7 @@ int main()
     //    }
     //}
     //cout << suma;
-        //Zad.7
+    //Zad.7
     //int n;
     //int suma = 0;
     //cout << "Podaj n: ";
@@ -74,7 +74,7 @@ int main()
     //    }
     //}
     //cout << suma;
-        //Zad.8
+    //Zad.8
     //int n;
     //int suma = 0;
     //cout << "Podaj n: ";
