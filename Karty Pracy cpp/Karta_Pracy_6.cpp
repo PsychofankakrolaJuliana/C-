@@ -63,4 +63,15 @@ int main()
     //    }
     //}
     //cout << suma;
+        //Zad.7
+    //int n;
+    //int suma = 0;
+    //cout << "Podaj n: ";
+    //cin >> n;
+    //for (int i = 1000; i > 1000 - n * 37; i--) {
+    //    if (i % 37 == 0) {
+    //        suma = suma + i;
+    //    }
+    //}
+    //cout << suma;
 }
