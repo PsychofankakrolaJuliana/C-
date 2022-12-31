@@ -74,4 +74,18 @@ int main()
     //    }
     //}
     //cout << suma;
+        //Zad.8
+    //int n;
+    //int suma = 0;
+    //cout << "Podaj n: ";
+    //cin >> n;
+    //for (int i = 2; i <= 2 + n; i++) {
+    //    if (i % 2 == 0) {
+    //        suma = suma + i;
+    //    }
+    //    else {
+    //        suma = suma - i;
+    //    }
+    //}
+    //cout << suma;
 }
