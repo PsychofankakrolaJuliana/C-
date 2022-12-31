@@ -88,4 +88,21 @@ int main()
     //    }
     //}
     //cout << suma;
+    //Zad.9
+    //int ilo = 1;
+    //int n;
+    //int x;
+    //cout << "Podaj liczbe: ";
+    //cin >> n;
+    //for (int i = 0; i < n; i++) {
+    //    if (i % 2 == 1) {
+    //        x = 2 ^ i;
+    //        ilo = ilo * x;
+    //    }
+    //    else {
+    //        x = 2 ^ i * (-1);
+    //        ilo = ilo * x;
+    //    }
+    //}
+    //cout << ilo;
 }
