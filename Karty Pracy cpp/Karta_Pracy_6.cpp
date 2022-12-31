@@ -52,4 +52,15 @@ int main()
     //    }
     //}
     //cout << suma << " i " << ilo;
+    //Zad.6
+    //int n;
+    //int suma = 0;
+    //cout << "Podaj n: ";
+    //cin >> n;
+    //for (int i = 10; i < 19 + n * 19; i++) {
+    //    if (i % 19 == 0) {
+    //        suma = suma + i;
+    //    }
+    //}
+    //cout << suma;
 }
