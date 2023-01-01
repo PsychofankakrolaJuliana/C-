@@ -2,6 +2,36 @@
 using namespace std;
 int main()
 {
+    //Zad.1
+    //int a, b, c;
+    //cout << "Podaj a: ";
+    //cin >> a;
+    //cout << "Podaj b: ";
+    //cin >> b;
+    //cout << "Podaj c: ";
+    //cin >> c;
+    //int x = c - b;
+    //int y = b - a;
+    //if (x == y) {
+    //    cout << "Ciag jest arytmetyczny" << endl;
+    //}
+    //else {
+    //    cout << "Ciag nie jest arytmetyczny" << endl;
+    //}
+    //float d = c / b;
+    //float e = b / a;
+    //if (d == e) {
+    //    cout << "Ciag jest geometryczny" << endl;
+    //}
+    //else {
+    //    cout << "Ciag nie jest geometryczny" << endl;
+    //}
+    //if (a < b < c) {
+    //    cout << "Podany ciag jest rosnacy" << endl;
+    //}
+    //else if (a > b > c) {
+    //    cout << "Podany ciag jest malejacy" << endl;
+    //}
     //Zad.2
     //int suma = 0;
     //for (int i = 100; i < 1000; i++) {
