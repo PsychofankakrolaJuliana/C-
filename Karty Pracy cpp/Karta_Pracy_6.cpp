@@ -135,4 +135,46 @@ int main()
     //    }
     //}
     //cout << ilo;
+        //Zad.11
+    //int n;
+    //int licznik = 0;
+    //int mianownik = 0;
+    //cout << "Podaj n: ";
+    //cin >> n;
+    //int l = -1;
+    //int iold = 0;
+    //int lold = 0;
+    //int a = 0;
+    //int b = 0;
+    //int c = 0;
+    //for (int i = 1; i <= n; i++) {
+    //    i = i * i;
+    //    l = l + 2;
+    //    if (iold != 0) {
+    //        a = iold;
+    //        b = i;
+    //        while (a != b) {
+    //            c = a * b;
+    //        }
+    //        while (a != b) {
+    //            if (a > b) {
+    //                a = a - b;
+    //                c = c / a;
+    //            }
+    //            else {
+    //                b = b - a;
+    //                c = c / b;
+    //            }
+    //        }
+    //    }
+    //    i = i * c;
+    //    l = l * c;
+    //    iold = iold * c;
+    //    lold = lold * c;
+    //    mianownik = i + iold;
+    //    licznik = l + lold;
+    //    iold = i;
+    //    lold = l;
+    //}
+    //cout << licznik << "/" << mianownik;
 }
