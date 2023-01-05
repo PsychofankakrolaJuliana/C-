@@ -204,4 +204,18 @@ int main()
     //    mianownik += i;
     //}
     //cout << licznik << "/" << mianownik;
+    //Zad.13
+    //int n;
+    //cout << "Podaj ile chcesz elementow ciagu: ";
+    //cin >> n;
+    //int licznik = 1;
+    //int mianownik = 1;
+    //int l = 0;
+    //for (int i = 1; i <= n; i = i + 1) {
+    //    i = i ^ 3 + 2;
+    //    l = l + 2;
+    //    licznik = licznik + l;
+    //    mianownik += i;
+    //}
+    //cout << licznik << "/" << mianownik;
 }
