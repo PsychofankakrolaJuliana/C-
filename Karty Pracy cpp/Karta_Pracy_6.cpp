@@ -237,4 +237,21 @@ int main()
     //}
     //cout << licznik << "/" << mianownik;
     //Zad.16
+    //int n;
+    //cout << "Podaj n: ";
+    //cin >> n;
+    //int a = 0;
+    //int b = 1;
+    //int temp = 0;
+    //int l = 1;
+    //int m = 1;
+    //for (int i = 0; i < n; i++) {
+    //    i = 2 ^ i;
+    //    m = m * i;
+    //    temp = a + b;
+    //    a = b;
+    //    b = temp;
+    //    l = l * temp;
+    //}
+    //cout << l << "/" << m;
 }
