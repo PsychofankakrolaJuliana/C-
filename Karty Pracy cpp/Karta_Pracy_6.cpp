@@ -219,4 +219,5 @@ int main()
     //}
     //cout << licznik << "/" << mianownik;
     //Zad.15
+    //Zad.16
 }
