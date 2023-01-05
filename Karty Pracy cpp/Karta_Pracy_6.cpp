@@ -135,7 +135,7 @@ int main()
     //    }
     //}
     //cout << ilo;
-        //Zad.11
+    //Zad.11
     //int n;
     //int licznik = 0;
     //int mianownik = 0;
@@ -175,6 +175,20 @@ int main()
     //    licznik = l + lold;
     //    iold = i;
     //    lold = l;
+    //}
+    //cout << licznik << "/" << mianownik;
+    //Zad.12
+    //int licznik = 0;
+    //int mianownik = 0;
+    //int l = -1;
+    //int n;
+    //cout << "Podaj n: ";
+    //cin >> n;
+    //for (int i = 1; i <= n; i++) {
+    //    i = i * i;
+    //    l = l + 2;
+    //    licznik = licznik + l;
+    //    mianownik += i;
     //}
     //cout << licznik << "/" << mianownik;
 }
