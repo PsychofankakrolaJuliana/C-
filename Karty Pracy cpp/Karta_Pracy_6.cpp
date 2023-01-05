@@ -135,6 +135,19 @@ int main()
     //    }
     //}
     //cout << ilo;
+    //Zad.10
+    //int n;
+    //cout << "Podaj n: ";
+    //cin >> n;
+    //int suma = 0;
+    //int ilo = 1;
+    //for (int i = 1; i <= n; i++) {
+    //    for (int j = 1; j < n; j++) {
+    //        ilo = ilo * j;
+    //    }
+    //    suma = suma + ilo;
+    //}
+    //cout << suma;
     //Zad.11
     //int n;
     //int licznik = 0;
