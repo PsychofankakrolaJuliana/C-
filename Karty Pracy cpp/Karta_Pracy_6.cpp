@@ -219,5 +219,22 @@ int main()
     //}
     //cout << licznik << "/" << mianownik;
     //Zad.15
+    //int n;
+    //cout << "Podaj liczbe jakoms: ";
+    //cin >> n;
+    //int a = 0;
+    //int b = 1;
+    //int temp = 0;
+    //int licznik = 1;
+    //int mianownik = 1;
+    //for (int i = 3; i < n; i++) {
+    //    licznik = licznik * i;
+    //    temp = a + b;
+    //    a = b;
+    //    b = temp;
+    //    mianownik = mianownik * temp;
+    //    
+    //}
+    //cout << licznik << "/" << mianownik;
     //Zad.16
 }
