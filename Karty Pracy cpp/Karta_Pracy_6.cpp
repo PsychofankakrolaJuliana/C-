@@ -222,20 +222,16 @@ int main()
     //int n;
     //cout << "Podaj liczbe jakoms: ";
     //cin >> n;
-    //int a = 0;
-    //int b = 1;
-    //int temp = 0;
-    //int licznik = 1;
-    //int mianownik = 1;
-    //for (int i = 3; i < n; i++) {
-    //    licznik = licznik * i;
-    //    temp = a + b;
-    //    a = b;
-    //    b = temp;
-    //    mianownik = mianownik * temp;
-    //    
+    //int l = 1;
+    //int m = 1;
+    //int x = 2;
+    //for (int i = 1; i < n; i++) {
+    //    i = i + 2 ^ i;
+    //    m = m * i;
+    //    x += 1;
+    //    l = l * x;
     //}
-    //cout << licznik << "/" << mianownik;
+    //cout << l << "/" << m;
     //Zad.16
     //int n;
     //cout << "Podaj n: ";
