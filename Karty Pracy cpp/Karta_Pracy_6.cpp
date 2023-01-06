@@ -221,21 +221,21 @@ int main()
     //}
     //cout << suma;
     //cout << licznik << "/" << mianownik;
-    //Zad.15
+    //Zad.15 - do sprawdzenia
     //int n;
     //cout << "Podaj liczbe jakoms: ";
     //cin >> n;
     //int l = 1;
     //int m = 1;
     //int x = 2;
-    //for (int i = 1; i < n; i++) {
+    //for (int i = 0; i < n; i++) {
     //    i = i + 2 ^ i;
     //    m = m * i;
     //    x += 1;
     //    l = l * x;
     //}
     //cout << l << "/" << m;
-    //Zad.16
+    //Zad.16 - do sprawdzenia
     //int n;
     //cout << "Podaj n: ";
     //cin >> n;
