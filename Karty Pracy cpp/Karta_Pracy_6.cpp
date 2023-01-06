@@ -190,7 +190,7 @@ int main()
     //    lold = l;
     //}
     //cout << licznik << "/" << mianownik;
-    //Zad.12
+    //Zad.12 - do sprawdzenia dla n>2
     //int licznik = 0;
     //int mianownik = 0;
     //int l = -1;
