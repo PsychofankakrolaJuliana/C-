@@ -204,19 +204,22 @@ int main()
     //    mianownik += i;
     //}
     //cout << licznik << "/" << mianownik;
-    //Zad.13 i 14
-    //int n;
-    //cout << "Podaj ile chcesz elementow ciagu: ";
-    //cin >> n;
-    //int licznik = 1;
-    //int mianownik = 1;
-    //int l = 0;
-    //for (int i = 1; i <= n; i = i + 1) {
-    //    i = i ^ 3 + 2;
-    //    l = l + 2;
-    //    licznik = licznik + l;
-    //    mianownik += i;
-    //}
+    //Zad.13 - nie wiem czy to dobrze dziala
+    int n;
+    cout << "Podaj ile chcesz elementow ciagu: ";
+    cin >> n;
+    double suma = 0;
+    //int licznik = 0;
+    //int mianownik = 0;
+    int l = 0;
+    for (int i = 1; i <= n; i ++) {
+        l = l + 2;
+        suma = (i * i * i + 2) / l;
+        //i = i ^ 3 + 2;
+        //licznik = licznik + l;
+        //mianownik = mianownik + i;
+    }
+    cout << suma;
     //cout << licznik << "/" << mianownik;
     //Zad.15
     //int n;
