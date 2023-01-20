@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    //Zad.1
+    //Zad.1 
     //int a, b, c;
     //cout << "Podaj a: ";
     //cin >> a;
