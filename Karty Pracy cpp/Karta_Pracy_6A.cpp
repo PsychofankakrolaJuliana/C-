@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std; 
+using namespace std;
 int main()
 {
     //Zad.1 - do poprawy
