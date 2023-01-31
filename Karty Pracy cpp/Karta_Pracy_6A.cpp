@@ -111,7 +111,7 @@ int main()
     //c = a / x;
     //d = b / y;
     //cout << a << "/" << b << "=" << c << "/" << d;
-        //Zad.8
+    //Zad.8
     //int a;
     //int b;
     //int suma = 0;
@@ -130,7 +130,7 @@ int main()
     //else {
     //    cout << "Podane liczby nie sa zaprzyjaznionie";
     //}
-       //Zad.10
+    //Zad.10
     //int n;
     //int x;
     //int flaga = true;
