@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main()
-{
+{ 
     //Zad.1
     // suma kwadratow liczb
     // suma kwadratow liczb
