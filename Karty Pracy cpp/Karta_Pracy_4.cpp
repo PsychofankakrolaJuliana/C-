@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     //Zad.1
-    // suma kwadratow liczbkkkkkkk
+    // suma kwadratow liczb
     // suma kwadratow liczb
     //int a, b;
     //cout << "Podaj a: ";
