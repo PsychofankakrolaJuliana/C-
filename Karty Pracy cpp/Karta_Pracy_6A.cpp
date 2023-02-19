@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int main()0
+int main()
 {
     //Zad.1 - do poprawy
     //int suma = 0;
