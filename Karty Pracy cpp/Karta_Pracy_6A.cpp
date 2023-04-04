@@ -91,6 +91,7 @@ int main()
     //        }
     //    }
     //}
+    
     //Zad.6 - tu też procesor wywala sie
     //int a;
     //int b;
