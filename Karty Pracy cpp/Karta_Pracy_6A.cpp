@@ -13,6 +13,7 @@ int main()
     //    suma = suma + x;
     //}
     //cout << "Suma cyfr podanej liczby jest rowna: " << suma;
+    
     //Zad.2
     //int a;
     //cout << "Podaj liczbe: ";
