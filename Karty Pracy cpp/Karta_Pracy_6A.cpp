@@ -135,6 +135,7 @@ int main()
     //else {
     //    cout << "Podane liczby nie sa zaprzyjaznionie";
     //}
+    
     //Zad.10
     //int n;
     //int x;
