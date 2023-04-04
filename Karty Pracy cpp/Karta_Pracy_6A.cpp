@@ -47,6 +47,7 @@ int main()
     //else {
     //    cout << "Podana liczba nie jest doskonala";
     //}
+    
     //Zad.4
     //int a, b;
     //cout << "Podaj liczbe: ";
