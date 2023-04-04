@@ -68,6 +68,7 @@ int main()
     //else {
     //    cout << "Podane liczby nie sa wzglednie pierwsze";
     //}
+    
     //Zad.5 - do sprawdzenia
     //int m;
     //int x = 0;
