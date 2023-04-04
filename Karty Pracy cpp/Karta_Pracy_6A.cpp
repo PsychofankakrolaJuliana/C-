@@ -30,6 +30,7 @@ int main()
     //else if(flaga==false) {
     //    cout << "Podana nie jest pierwsza";
     //}
+    
     //Zad.3
     //int n;
     //int suma = 0;
