@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main()
-{ 
+{
     //Zad.1 - do poprawy
     //int suma = 0;
     //int n;
