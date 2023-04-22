@@ -116,6 +116,7 @@ int main()
     //c = a / x;
     //d = b / y;
     //cout << a << "/" << b << "=" << c << "/" << d;
+    
     //Zad.8
     //int a;
     //int b;
