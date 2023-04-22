@@ -117,6 +117,29 @@ int main()
     //d = b / y;
     //cout << a << "/" << b << "=" << c << "/" << d;
     
+    //Zad.7
+    //int a, b;
+    //cout << "Podaj licznik: ";
+    //cin >> a;
+    //cout << "Podaj mianownik: ";
+    //cin >> b;
+    //int c = b / a;
+    //int d = c * a;
+    //a = a - d;
+    //int x = a;
+    //int y = b;
+    //while (x > y) {
+    //    if (x > y) {
+    //        x = x - y;
+    //    }
+    //    else {
+    //        y = y - x;
+    //    }
+    //}
+    //a = a / x;
+    //b = b / y;
+    //cout << c << " " << a << "/" << b;
+    
     //Zad.8
     //int a;
     //int b;
