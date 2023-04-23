@@ -32,6 +32,7 @@ int main()
     //else if (a > b > c) {
     //    cout << "Podany ciag jest malejacy" << endl;
     //}
+    
     //Zad.2
     //int suma = 0;
     //for (int i = 100; i < 1000; i++) {
