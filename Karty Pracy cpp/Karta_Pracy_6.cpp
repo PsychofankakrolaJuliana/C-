@@ -215,6 +215,7 @@ int main()
     //    mianownik += i;
     //}
     //cout << licznik << "/" << mianownik;
+    
     //Zad.13 - nie wiem czy to dobrze dziala
     //int n;
     //cout << "Podaj ile chcesz elementow ciagu: ";
@@ -232,6 +233,7 @@ int main()
     //}
     //cout << suma;
     //cout << licznik << "/" << mianownik;
+    
     //Zad.15 - do sprawdzenia
     //int n;
     //cout << "Podaj liczbe jakoms: ";
@@ -246,6 +248,7 @@ int main()
     //    l = l * x;
     //}
     //cout << l << "/" << m;
+    
     //Zad.16 - do sprawdzenia
     //int n;
     //cout << "Podaj n: ";
