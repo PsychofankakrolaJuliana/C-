@@ -41,6 +41,7 @@ int main()
     //    }
     //}
     //cout << suma;
+    
     //Zad.3
     //int ilo = 0;
     //int x = 0;
@@ -55,6 +56,7 @@ int main()
     //    }
     //}
     //cout << ilo;
+    
     //Zad.4
     //int x = 0;
     //int y = 0;
