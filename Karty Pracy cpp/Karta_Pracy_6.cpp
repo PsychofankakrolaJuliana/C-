@@ -125,6 +125,7 @@ int main()
     //    }
     //}
     //cout << suma;
+    
     //Zad.9
     //int ilo = 1;
     //int n;
@@ -142,6 +143,7 @@ int main()
     //    }
     //}
     //cout << ilo;
+    
     //Zad.10
     //int n;
     //cout << "Podaj n: ";
