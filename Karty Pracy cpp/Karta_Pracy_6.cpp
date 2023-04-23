@@ -69,6 +69,7 @@ int main()
     //    }
     //}
     //cout << ilo;
+    
     //Zad.5
     //int suma = 0;
     //int ilo = 0;
@@ -85,6 +86,7 @@ int main()
     //    }
     //}
     //cout << suma << " i " << ilo;
+    
     //Zad.6
     //int n;
     //int suma = 0;
