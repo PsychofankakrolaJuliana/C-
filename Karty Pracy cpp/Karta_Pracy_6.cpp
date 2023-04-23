@@ -98,6 +98,7 @@ int main()
     //    }
     //}
     //cout << suma;
+    
     //Zad.7
     //int n;
     //int suma = 0;
@@ -109,6 +110,7 @@ int main()
     //    }
     //}
     //cout << suma;
+    
     //Zad.8
     //int n;
     //int suma = 0;
