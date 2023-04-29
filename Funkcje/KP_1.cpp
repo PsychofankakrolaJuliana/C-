@@ -15,6 +15,11 @@ using namespace std;
 //    return (a - b) * (a - b) * (a - b);
 //}
 
+//Zad.4
+//int f4(int a, int b) {
+//    return a*b;
+//}
+
 int main()
 {
     int x, y;
@@ -29,4 +34,6 @@ int main()
     //cout << f2(x, y);
     //3
     //cout << f3(x, y);
+    //4
+    //cout << f4(x, y);
 }
