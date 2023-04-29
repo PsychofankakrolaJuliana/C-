@@ -4,6 +4,11 @@ using namespace std;
 //int f1(int a, int b) {
 //    return a * a + b * b;
 //}
+
+//int f2(int a, int b) {
+//    return (a + b) * (a + b);
+//}
+
 int main()
 {
     int x, y;
@@ -13,6 +18,7 @@ int main()
     cin >> y;
     //Wywołania funkcji
     //1
-    //cout << f(x, y);
+    //cout << f1(x, y);
     //2
+    //cout << f2(x, y);
 }
