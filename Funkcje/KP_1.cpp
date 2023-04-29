@@ -31,6 +31,11 @@ using namespace std;
 //    return cena;
 //}
 
+//Zad.7
+//int f7(int a, int b) {
+//    return a % b;
+//}
+
 int main()
 {
     int x, y;
@@ -51,4 +56,6 @@ int main()
     //cout << f5(x, y);
     //6
     //cout << f6(x);
+    //7
+    //cout << f7(x, y);
 }
