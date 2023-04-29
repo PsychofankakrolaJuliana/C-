@@ -5,6 +5,8 @@ entrypoint = "KartaPracy2a.cpp"
 # A list of globs that specify which files and directories should
 # be hidden in the workspace.
 hidden = ["venv", ".config", "**/__pycache__", "**/.mypy_cache", "**/*.pyc"]
+run = "./main"
+compile = "make -s"
 
 # Specifies which nix channel to use when building the environment.
 [nix]
@@ -93,4 +95,12 @@ ignoredPackages = ["unit_tests"]
 # for Python repos imported from GitHub
 [gitHubImport]
 requiredFiles = [".replit", "replit.nix", ".config", "venv"]
+
+[languages]
+
+[languages.cpp]
+pattern = "**/*.{cpp,h}"
+
+[languages.cpp.languageServer]
+start = "ccls"
 
