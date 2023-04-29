@@ -20,6 +20,11 @@ using namespace std;
 //    return a*b;
 //}
 
+//Zad.5
+//int f5(int a, int b) {
+//    return 2 * (a + b) / 5;
+//}
+
 int main()
 {
     int x, y;
@@ -36,4 +41,6 @@ int main()
     //cout << f3(x, y);
     //4
     //cout << f4(x, y);
+    //5
+    //cout << f5(x, y);
 }
