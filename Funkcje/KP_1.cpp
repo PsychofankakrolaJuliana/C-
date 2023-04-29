@@ -25,6 +25,12 @@ using namespace std;
 //    return 2 * (a + b) / 5;
 //}
 
+//Zad.6
+//int f6(int cena) {
+//    cena = cena / 1.23;
+//    return cena;
+//}
+
 int main()
 {
     int x, y;
@@ -43,4 +49,6 @@ int main()
     //cout << f4(x, y);
     //5
     //cout << f5(x, y);
+    //6
+    //cout << f6(x);
 }
