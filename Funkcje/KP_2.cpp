@@ -86,12 +86,12 @@ int main()
     //cin >> a;
     //cout << "Podaj liczbe: ";
     //cin >> p;
-    //cout << "Podaj liczbe: ";
-    //cin >> x;
-    //cout << "Podaj liczbe: ";
-    //cin >> y;
-    //cout << "Podaj liczbe: ";
-    //cin >> z;
+    cout << "Podaj liczbe: ";
+    cin >> x;
+    cout << "Podaj liczbe: ";
+    cin >> y;
+    cout << "Podaj liczbe: ";
+    cin >> z;
     //Odwołania do funkcji
     //1
     //cout << f1(x);
