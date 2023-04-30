@@ -10,6 +10,16 @@ using namespace std;
 //    }
 //}
 
+//Zad.2
+//bool f2(int n) {
+//    if (n < 1000 and n>99 && n % 17 == 0) {
+//        return true;
+//    }
+//    else {
+//        return false;
+//    }
+//}
+
 int main()
 {
     int x;
@@ -18,4 +28,6 @@ int main()
     //Odwołania do funkcji
     //1
     //cout << f1(x);
+    //2
+    //cout << f2(x);
 }
