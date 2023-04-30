@@ -78,20 +78,31 @@ using namespace std;
 //    }
 //}
 
+//Zad.7
+//bool f7(int p, int k, int s) {
+//    int d = k - p;
+//    if (d / 3 >= s) {
+//        return true;
+//    }
+//    else {
+//        return false;
+//    }
+//}
+
 int main()
 {
-    int x, y ,z;
+    //int x, y ,z;
     //double a, p;
     //cout << "Podaj liczbe: ";
     //cin >> a;
     //cout << "Podaj liczbe: ";
     //cin >> p;
-    cout << "Podaj liczbe: ";
-    cin >> x;
-    cout << "Podaj liczbe: ";
-    cin >> y;
-    cout << "Podaj liczbe: ";
-    cin >> z;
+    //cout << "Podaj liczbe: ";
+    //cin >> x;
+    //cout << "Podaj liczbe: ";
+    //cin >> y;
+    //cout << "Podaj liczbe: ";
+    //cin >> z;
     //Odwołania do funkcji
     //1
     //cout << f1(x);
@@ -106,5 +117,5 @@ int main()
     //6
     //cout << f6(a, p);
     //7
-    //cout << f7(x);
+    //cout << f7(x, y ,z);
 }
