@@ -1,4 +1,5 @@
 #include <iostream>
+#include <math.h>
 using namespace std;
 //Zad.1
 //bool f1(int n) {
@@ -54,11 +55,39 @@ using namespace std;
 //    }
 //}
 
+//Zad.6
+//bool f6(double a, double p) {
+//    bool flaga = true;
+//    int pp = p;
+//    for (int i = 2; i < p; i++) {
+//        if (pp % i == 0) {
+//            flaga = false;
+//        }
+//    }
+//    if (flaga == false) {
+//        return false;
+//    }
+//    else {
+//        int aa = pow(a, p);
+//        if (aa % pp == 0) {
+//            return true;
+//        }
+//        else {
+//            return false;
+//        }
+//    }
+//}
+
 int main()
 {
     int x, y ,z;
-    cout << "Podaj liczbe: ";
-    cin >> x;
+    //double a, p;
+    //cout << "Podaj liczbe: ";
+    //cin >> a;
+    //cout << "Podaj liczbe: ";
+    //cin >> p;
+    //cout << "Podaj liczbe: ";
+    //cin >> x;
     //cout << "Podaj liczbe: ";
     //cin >> y;
     //cout << "Podaj liczbe: ";
@@ -75,7 +104,7 @@ int main()
     //5
     //cout << f5(x, y, z);
     //6
-    //cout << f6(x);
+    //cout << f6(a, p);
     //7
     //cout << f7(x);
 }
