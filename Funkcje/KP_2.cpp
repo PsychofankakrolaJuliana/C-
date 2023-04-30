@@ -20,6 +20,16 @@ using namespace std;
 //    }
 //}
 
+//Zad.3
+//bool f3(int wiek) {
+//    if (wiek > 17) {
+//        return true;
+//    }
+//    else {
+//        return false;
+//    }
+//}
+
 int main()
 {
     int x;
@@ -30,4 +40,14 @@ int main()
     //cout << f1(x);
     //2
     //cout << f2(x);
+    //3
+    //cout << f3(x);
+    //4
+    //cout << f4(x);
+    //5
+    //cout << f5(x);
+    //6
+    //cout << f6(x);
+    //7
+    //cout << f7(x);
 }
