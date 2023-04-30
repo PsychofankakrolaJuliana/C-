@@ -30,6 +30,17 @@ using namespace std;
 //    }
 //}
 
+//Zad.4
+//bool f4(int waga) {
+//    int limit = 20;
+//    if (waga >= limit) {
+//        return false;
+//    }
+//    else {
+//        return true;
+//    }
+//}
+
 int main()
 {
     int x;
