@@ -66,15 +66,29 @@ using namespace std;
 //    return false;
 //}
 
+//Zad.6
+//int f6(int a, int b, int c) {
+//    if (a + b > c) {
+//        cout << "Trojkat jest ostrokatny";
+//    }
+//    else if (a + b == c) {
+//        cout << "Trojkat jest prostokatny";
+//    }
+//    else if (a + b < c) {
+//        cout << "Trojkat jest rozwartokatny";
+//    }
+//    return 0;
+//}
+
 int main()
 {
-    int a, b, c, d;
-    cout << "Podaj liczbe: ";
-    cin >> a;
-    cout << "Podaj liczbe: ";
-    cin >> b;
-    cout << "Podaj liczbe: ";
-    cin >> c;
+    //int a, b, c, d;
+    //cout << "Podaj liczbe: ";
+    //cin >> a;
+    //cout << "Podaj liczbe: ";
+    //cin >> b;
+    //cout << "Podaj liczbe: ";
+    //cin >> c;
     //cout << "Podaj liczbe: ";
     //cin >> d;
     
@@ -90,6 +104,5 @@ int main()
     //5
     //cout << f5(a, b, c);
     //6
-    //cout << f6(a, b);
-    return 0;
+    //cout << f6(a, b, c);
 }
