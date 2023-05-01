@@ -37,6 +37,27 @@ using namespace std;
 //    }
 //}
 
+//Zad.4
+//int f4(int a, int b, int c, int d) {
+//    int T[4];
+//    T[0] = a;
+//    T[1] = b;
+//    T[2] = c;
+//    T[3] = d;
+//    int temp = 0;
+//    for (int i = 0; i < 4; i++) {
+//        for (int j = 0; j < 4; j++) {
+//            if (T[i] <= T[j]) {
+//                temp++;
+//            }
+//        }
+//        if (temp == 4) {
+//            cout << T[i];
+//        }
+//    }
+//    return 0;
+//}
+
 int main()
 {
     int a, b, c, d;
@@ -57,9 +78,10 @@ int main()
     //3
     //cout << f3(a, b, c);
     //4
-    //cout << f4(a, b);
+    //cout << f4(a, b, c, d);
     //5
     //cout << f5(a, b);
     //6
     //cout << f6(a, b);
+    return 0;
 }
