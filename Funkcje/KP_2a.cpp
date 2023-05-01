@@ -21,6 +21,22 @@ using namespace std;
 //    return false;
 //}
 
+//Zad.3
+//bool f3(int a, int b, int c) {
+//    if (a == b && a != c) {
+//        return true;
+//    }
+//    if (a == c && a != b) {
+//        return true;
+//    }
+//    if (c == b && a != c) {
+//        return true;
+//    }
+//    else {
+//        return false;
+//    }
+//}
+
 int main()
 {
     int a, b, c, d;
@@ -28,10 +44,10 @@ int main()
     cin >> a;
     cout << "Podaj liczbe: ";
     cin >> b;
-    //cout << "Podaj liczbe: ";
-    //cin >> c;
-    //cout << "Podaj liczbe: ";
-    //cin >> d;
+    cout << "Podaj liczbe: ";
+    cin >> c;
+    cout << "Podaj liczbe: ";
+    cin >> d;
     
     //Odwołania do funkcji
     //1
@@ -39,7 +55,7 @@ int main()
     //2
     //cout << f2(a, b);
     //3
-    //cout << f3(a, b);
+    //cout << f3(a, b, c);
     //4
     //cout << f4(a, b);
     //5
