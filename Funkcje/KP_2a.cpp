@@ -58,6 +58,14 @@ using namespace std;
 //    return 0;
 //}
 
+//Zad.5
+//bool f5(int a, int b, int c) {
+//    if (a <= b + c && b <= a + c and c <= a + b) {
+//        return true;
+//    }
+//    return false;
+//}
+
 int main()
 {
     int a, b, c, d;
@@ -67,8 +75,8 @@ int main()
     cin >> b;
     cout << "Podaj liczbe: ";
     cin >> c;
-    cout << "Podaj liczbe: ";
-    cin >> d;
+    //cout << "Podaj liczbe: ";
+    //cin >> d;
     
     //Odwołania do funkcji
     //1
@@ -80,7 +88,7 @@ int main()
     //4
     //cout << f4(a, b, c, d);
     //5
-    //cout << f5(a, b);
+    //cout << f5(a, b, c);
     //6
     //cout << f6(a, b);
     return 0;
