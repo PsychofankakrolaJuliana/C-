@@ -1,6 +1,15 @@
 #include <iostream>
 #include <math.h>
 using namespace std;
+
+//Zad.1
+//bool f1(int a, int b) {
+//    int suma = a + b;
+//    if (suma % 2 == 0) {
+//        return true;
+//    }
+//    return false;
+//}
 int main()
 {
     int a, b, c, d;
@@ -15,15 +24,15 @@ int main()
     
     //Odwołania do funkcji
     //1
-    //cout << f(a, b);
+    //cout << f1(a, b);
     //2
-    //cout << f(a, b);
+    //cout << f2(a, b);
     //3
-    //cout << f(a, b);
+    //cout << f3(a, b);
     //4
-    //cout << f(a, b);
+    //cout << f4(a, b);
     //5
-    //cout << f(a, b);
+    //cout << f5(a, b);
     //6
-    //cout << f(a, b);
+    //cout << f6(a, b);
 }
