@@ -10,6 +10,17 @@ using namespace std;
 //    }
 //    return false;
 //}
+
+//Zad.2
+//bool f2(int x, int y) {
+//    int a = (x + y) / 2;
+//    int g = sqrt(x * y);
+//    if (a > g) {
+//        return true;
+//    }
+//    return false;
+//}
+
 int main()
 {
     int a, b, c, d;
