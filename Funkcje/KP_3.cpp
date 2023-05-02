@@ -1,7 +1,14 @@
 #include <iostream>
+#include <math.h>
 using namespace std;
 
 //Zad.1
+//void f1() {
+//    for (int i = 0; i < 10; i++) {
+//        i = pow(i, 3) + 3;
+//        cout << i << " ";
+//    }
+//}
 
 int main()
 {
@@ -13,7 +20,7 @@ int main()
 
     //Odwołania do funkcji
     // 1
-    //cout << f1();
+    //f1();
     // 2
     //cout << f2();
     // 3
