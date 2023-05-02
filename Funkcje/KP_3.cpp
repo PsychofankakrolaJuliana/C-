@@ -39,14 +39,29 @@ using namespace std;
 //    return suma;
 //}
 
+//Zad.5
+//int f5(int n) {
+//    int temp, suma, suma2, x;
+//    suma = 0;
+//    suma2 = 0;
+//    for (int i = 1; i <= n; i++) {
+//        suma = suma + i;
+//    }
+//    for (int j = 1; j < n ; j++) {
+//        cout << "Podaj liczbe: ";
+//        cin >> temp;
+//        suma2 = suma2 + temp;
+//    }
+//    x = suma - suma2;
+//    cout << "Nie podalas: " << x << "\n";
+//    return 0;
+//}
 
 int main()
 {
-    //int x, y;
+    //int x;
     //cout << "Podaj liczbe: ";
     //cin >> x;
-    //cout << "Podaj liczbe: ";
-    //cin >> y;
 
     //Odwołania do funkcji
     // 1
@@ -58,7 +73,7 @@ int main()
     // 4
     //cout << f4();
     // 5
-    //cout << f5();
+    //cout << f5(x);
     // 6
     //cout << f6();
 }
