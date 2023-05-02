@@ -20,6 +20,16 @@ using namespace std;
 //    return 0;
 //}
 
+//Zad.3
+//int f3(int n) {
+//    for (int i = 1; i <= n; i++) {
+//        if (n % i == 0) {
+//            cout << i << " ";
+//        }
+//    }
+//    return 0;
+//}
+
 int main()
 {
     //int x, y;
@@ -34,7 +44,7 @@ int main()
     // 2
     //cout << f2();
     // 3
-    //cout << f3();
+    //cout << f3(x);
     // 4
     //cout << f4();
     // 5
