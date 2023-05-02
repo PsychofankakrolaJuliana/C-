@@ -10,6 +10,16 @@ using namespace std;
 //    }
 //}
 
+//Zad.2
+//int f2() {
+//    for (int i = 100; i < 1000; i++) {
+//        if (i % 15 == 0) {
+//            cout << i << " ";
+//        }
+//    }
+//    return 0;
+//}
+
 int main()
 {
     //int x, y;
