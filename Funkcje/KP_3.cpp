@@ -30,6 +30,16 @@ using namespace std;
 //    return 0;
 //}
 
+//Zad.4
+//int f4() {
+//    int suma = 0;
+//    for (int i = 10; i < 100; i++) {
+//        suma = suma + i;
+//    }
+//    return suma;
+//}
+
+
 int main()
 {
     //int x, y;
