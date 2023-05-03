@@ -56,6 +56,19 @@ using namespace std;
 //    return b;
 //}
 
+//Zad.5
+//int f5(int n) {
+//    int a = 0;
+//    int b = 1;
+//    cout << a, b;
+//    for (int i = 0; i < n; i++) {
+//        b = b + a;
+//        a = b;
+//        cout << " " << b;
+//    }
+//    return 0;
+//}
+
 int main()
 {
     int x, y;
@@ -76,6 +89,7 @@ int main()
     //4
     //cout << f4(x);
     //5
+    //cout << f5(x);
     //6
     //7
 }
