@@ -79,13 +79,22 @@ using namespace std;
 //    }
 //}
 
+//Zad.7
+//void f7(int n) {
+//    if (n > 1) {
+//        f7(n / 2);
+//    }
+//    cout << n % 2;
+//}
+
+
 int main()
 {
-    int x, y;
-    cout << "Podaj liczbe: ";
-    cin >> x;
-    cout << "Podaj liczbe: ";
-    cin >> y;
+    //int x, y;
+    //cout << "Podaj liczbe: ";
+    //cin >> x;
+    //cout << "Podaj liczbe: ";
+    //cin >> y;
     
     //Odwołania do funkcji
     //1
@@ -103,4 +112,5 @@ int main()
     //6
     //cout << f6(x, y);
     //7
+    //f7(x);
 }
