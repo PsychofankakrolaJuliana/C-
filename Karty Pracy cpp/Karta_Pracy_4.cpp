@@ -46,6 +46,15 @@ using namespace std;
 //}
 
 //Zad.4
+//int f4(int n) {
+//    int a = 0;
+//    int b = 1;
+//    for (int i = 0; i < n; i++) {
+//        b = b + a;
+//        a = b;
+//    }
+//    return b;
+//}
 
 int main()
 {
@@ -65,7 +74,7 @@ int main()
     //3
     //cout << f2(x);
     //4
-    cout << f4(x);
+    //cout << f4(x);
     //5
     //6
     //7
