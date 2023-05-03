@@ -45,13 +45,15 @@ using namespace std;
 //    }
 //}
 
+//Zad.4
+
 int main()
 {
     int x, y;
     cout << "Podaj liczbe: ";
     cin >> x;
-    cout << "Podaj liczbe: ";
-    cin >> y;
+    //cout << "Podaj liczbe: ";
+    //cin >> y;
     
     //Odwołania do funkcji
     //1
@@ -63,6 +65,7 @@ int main()
     //3
     //cout << f2(x);
     //4
+    cout << f4(x);
     //5
     //6
     //7
