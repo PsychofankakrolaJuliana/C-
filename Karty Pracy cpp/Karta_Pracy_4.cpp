@@ -69,13 +69,23 @@ using namespace std;
 //    return 0;
 //}
 
+//Zad.6
+//int f6(int n, int x) {
+//    if (n == 0) {
+//        return 1;
+//    }
+//    else{
+//        return pow(n, x);
+//    }
+//}
+
 int main()
 {
     int x, y;
     cout << "Podaj liczbe: ";
     cin >> x;
-    //cout << "Podaj liczbe: ";
-    //cin >> y;
+    cout << "Podaj liczbe: ";
+    cin >> y;
     
     //Odwołania do funkcji
     //1
@@ -91,5 +101,6 @@ int main()
     //5
     //cout << f5(x);
     //6
+    //cout << f6(x, y);
     //7
 }
