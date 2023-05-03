@@ -1,4 +1,5 @@
 #include <iostream>
+#include <math.h>
 using namespace std;
 
 //Zad.1
@@ -7,7 +8,18 @@ using namespace std;
 //    return x * x + y + y;
 //}
 
-//suma cyr w liczbie
+//trojkat rownoboczny pole
+//int f12(int a) {
+//    return (pow(a, 2) * 2) / 4;
+//}
+
+//podzielność liczby przez drugą
+//bool f13(int x, int y) {
+//    if (x % y == 0) {
+//        return true;
+//    }
+//    return false;
+//}
 
 //Zad.2
 //int f2(int x) {
@@ -38,13 +50,14 @@ int main()
     int x, y;
     cout << "Podaj liczbe: ";
     cin >> x;
-    //cout << "Podaj liczbe: ";
-    //cin >> y;
+    cout << "Podaj liczbe: ";
+    cin >> y;
     
     //Odwołania do funkcji
     //1
     //cout << f11(x, y);
     //cout << f12(x);
+    //cout << f13(x, y);
     //2
     //cout << f2(x);
     //3
