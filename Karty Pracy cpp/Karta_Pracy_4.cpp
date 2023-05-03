@@ -1,17 +1,28 @@
 #include <iostream>
 using namespace std;
+
+//Zad.3
+int f1(int n) {
+    if (n == 0) {
+        return 1;
+    }
+}
+
 int main()
 {
-    //Zad.1
-    // suma kwadratow liczb
-    // suma kwadratow liczb
-    //int a, b;
-    //cout << "Podaj a: ";
-    //cin >> a;
-    //cout << "Podaj b: ";
-    //cin >> b;
-    //float suma(float x, float y)
-    //{
-    //    return x * x + y * y;
-    //}
-    //suma(a, b);
+    int x;
+    cout << "Podaj liczbe: ";
+    cin >> x;
+    
+    //Odwołania do funkcji
+    //1
+    
+    //2
+    
+    //3
+    cout << f1(x);
+    //4
+    //5
+    //6
+    //7
+}
