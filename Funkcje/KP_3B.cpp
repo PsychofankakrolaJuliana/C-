@@ -8,6 +8,13 @@ using namespace std;
 //    }
 //}
 
+//Zad.2
+//void f2() {
+//    for (int i = 1; i < 10; i = i + 2) {
+//        cout << i * i << " ";
+//    }
+//}
+
 int main()
 {
     //int x, y;
@@ -19,4 +26,21 @@ int main()
     //Odwołania do funkcji
     //1
     //f1();
+    //2
+    //f2();
+    //3
+    
+    //4
+    
+    //5
+    
+    //6
+
+    //7
+
+    //8
+
+    //9
+
+    //10
 }
