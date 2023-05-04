@@ -1,4 +1,5 @@
 #include <iostream>
+#include <math.h>
 using namespace std;
 
 //Zad.1
@@ -61,13 +62,28 @@ using namespace std;
 //    return suma;
 //}
 
+//Zad.8
+//int f8(int kw, int l) {
+//    for (int i = 0; i < l; i++) {
+//        kw = kw + kw * 6 / 100;
+//    }
+//    return kw;
+//}
+
+//Zad.9
+//void f9(int n) {
+//    for (int i = 21; i < n * 100; i = i + 100) {
+//        cout << i << " ";
+//    }
+//}
+
 int main()
 {
-    int x, y;
-    cout << "Podaj liczbe: ";
-    cin >> x;
-    cout << "Podaj liczbe: ";
-    cin >> y;
+    //int x, y;
+    //cout << "Podaj liczbe: ";
+    //cin >> x;
+    //cout << "Podaj liczbe: ";
+    //cin >> y;
 
     //Odwołania do funkcji
     //1
@@ -85,8 +101,8 @@ int main()
     //7
     //cout << f7(x);
     //8
-
+    //cout << f8(x, y);
     //9
-
+    //f9(x);
     //10
 }
