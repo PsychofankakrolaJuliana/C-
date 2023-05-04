@@ -77,6 +77,27 @@ using namespace std;
 //    }
 //}
 
+//Zad.10
+//void f10() {
+//    for (int i = 1; i < 1000; i++) {
+//        if (i < 10) {
+//            if (sqrt(i) == i) {
+//                cout<<i<<"  ";
+//            }
+//        }
+//        if (i > 10) {
+//            if (sqrt(i) == i % 10) {
+//                cout << i << "  ";
+//            }
+//        }
+//        if (i > 100) {
+//            if (sqrt(i) == i % 100) {
+//                cout << i << "  ";
+//            }
+//        }
+//    }
+//}
+
 int main()
 {
     //int x, y;
@@ -105,4 +126,5 @@ int main()
     //9
     //f9(x);
     //10
+    //f10();
 }
