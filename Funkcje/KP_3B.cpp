@@ -52,13 +52,22 @@ using namespace std;
 //    }
 //}
 
+//Zad.7
+//int f7(int x) {
+//    int suma = 0;
+//    for (int i = 11; i < 11 + x * 2; i+=2) {
+//        suma = suma + i;
+//    }
+//    return suma;
+//}
+
 int main()
 {
     int x, y;
     cout << "Podaj liczbe: ";
     cin >> x;
-    //cout << "Podaj liczbe: ";
-    //cin >> y;
+    cout << "Podaj liczbe: ";
+    cin >> y;
 
     //Odwołania do funkcji
     //1
@@ -74,7 +83,7 @@ int main()
     //6
     //f6(x);
     //7
-
+    //cout << f7(x);
     //8
 
     //9
