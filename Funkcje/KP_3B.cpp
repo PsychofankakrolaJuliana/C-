@@ -24,6 +24,15 @@ using namespace std;
 //    }
 //}
 
+//Zad.4
+//void f4() {
+//    for (int i = 100; i < 1000; i++) {
+//        if (i % 5 == 0 and i % 6 == 0 || i % 11 == 0) {
+//            cout << i << " ";
+//        }
+//    }
+//}
+
 int main()
 {
     //int x, y;
@@ -40,7 +49,7 @@ int main()
     //3
     //f3();
     //4
-    
+    //f4();
     //5
     
     //6
