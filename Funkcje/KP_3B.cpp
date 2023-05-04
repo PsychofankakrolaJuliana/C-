@@ -15,6 +15,15 @@ using namespace std;
 //    }
 //}
 
+//Zad.3
+//void f3() {
+//    for (int i = 1000; i < 10000; i++) {
+//        if (i % 379 == 0) {
+//            cout << i << " ";
+//        }
+//    }
+//}
+
 int main()
 {
     //int x, y;
@@ -29,7 +38,7 @@ int main()
     //2
     //f2();
     //3
-    
+    //f3();
     //4
     
     //5
