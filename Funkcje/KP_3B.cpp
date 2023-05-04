@@ -45,6 +45,13 @@ using namespace std;
 //    return suma;
 //}
 
+//Zad.6
+//void f6(int x) {
+//    for (int i = 0; i < x*2; i = i + 2) {
+//        cout << i << " ";
+//    }
+//}
+
 int main()
 {
     int x, y;
@@ -65,7 +72,7 @@ int main()
     //5
     //cout << f5(x);
     //6
-
+    //f6(x);
     //7
 
     //8
