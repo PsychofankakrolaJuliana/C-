@@ -33,11 +33,23 @@ using namespace std;
 //    }
 //}
 
+//Zad.5
+//int f5(int x) {
+//    int n;
+//    int suma = 0;
+//    for (int i = 0; i < x; i++) {
+//        cout << "Podaj liczbe: ";
+//        cin >> n;
+//        suma = suma + n;
+//    }
+//    return suma;
+//}
+
 int main()
 {
-    //int x, y;
-    //cout << "Podaj liczbe: ";
-    //cin >> x;
+    int x, y;
+    cout << "Podaj liczbe: ";
+    cin >> x;
     //cout << "Podaj liczbe: ";
     //cin >> y;
 
@@ -51,7 +63,7 @@ int main()
     //4
     //f4();
     //5
-    
+    //cout << f5(x);
     //6
 
     //7
