@@ -2,7 +2,7 @@
 #include <math.h>
 using namespace std;
 
-//Zad.1
+//Zad.1 
 //suma kwadratow liczb
 //int f11(int x, int y) {
 //    return x * x + y + y;
