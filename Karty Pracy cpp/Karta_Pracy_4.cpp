@@ -1,7 +1,7 @@
 #include <iostream>
 #include <math.h>
 using namespace std;
-
+ 
 //Zad.1
 //suma kwadratow liczb
 //int f11(int x, int y) {
