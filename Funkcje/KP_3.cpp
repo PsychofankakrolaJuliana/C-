@@ -1,7 +1,7 @@
 #include <iostream>
 #include <math.h>
 using namespace std;
-     
+    
 //Zad.1
 //void f1() {
 //    for (int i = 0; i < 10; i++) {
