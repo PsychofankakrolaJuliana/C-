@@ -42,11 +42,21 @@ using namespace std;
 //    return false;
 //}
 
+//Zad.5
+//void f5(int x) {
+//    int suma = 0;
+//    while (x > 0) {
+//        suma = suma + x % 10;
+//        x = x / 10;
+//    }
+//    cout << suma;
+//}
+
 int main()
 {
     int x, y;
-    //cout << "Podaj liczbe: ";
-    //cin >> x;
+    cout << "Podaj liczbe: ";
+    cin >> x;
     //cout << "Podaj liczbe: ";
     //cin >> y;
 
@@ -60,6 +70,6 @@ int main()
     //4
     //cout << f4(x, y);
     //5
-
+    //f5(x);
     //6
 }
