@@ -34,6 +34,14 @@ using namespace std;
 //    cout << suma;
 //}
 
+//Zad.4
+//bool f4(int n, int d) {
+//    if (n % d == 0) {
+//        return true;
+//    }
+//    return false;
+//}
+
 int main()
 {
     int x, y;
@@ -50,7 +58,7 @@ int main()
     //3
 
     //4
-
+    //cout << f4(x, y);
     //5
 
     //6
