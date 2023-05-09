@@ -23,6 +23,17 @@ using namespace std;
 //    cout << suma;
 //}
 
+//Zad.2
+//void f2() {
+//    int suma = 0;
+//    int x = pow(2, 2019);
+//    while (x > 0) {
+//        suma = suma + x % 10;
+//        x = x / 10;
+//    }
+//    cout << suma;
+//}
+
 int main()
 {
     int x, y;
@@ -35,7 +46,7 @@ int main()
     //1
     //f1();
     //2
-    f2();
+    //f2();
     //3
 
     //4
