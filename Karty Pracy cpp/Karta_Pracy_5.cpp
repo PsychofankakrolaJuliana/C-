@@ -52,11 +52,34 @@ using namespace std;
 //    cout << suma;
 //}
 
+//Zad.6
+//bool a(int n) {
+//    if (n % 2 == 0) {
+//         return true;
+//    }
+//    return false;
+//}
+//int b(int n) {
+//    n = n * 3;
+//    return n;
+//}
+//int c(int n) {
+//    n = n * 40 / 100;
+//    return n;
+//}
+//void f6(int n) {
+//    if (a(n) == 1) {
+//        if (b(n) % 2 == 1) {
+//            cout << c(n);
+//        }
+//    }
+//}
+
 int main()
 {
-    int x, y;
-    cout << "Podaj liczbe: ";
-    cin >> x;
+    //int x, y;
+    //cout << "Podaj liczbe: ";
+    //cin >> x;
     //cout << "Podaj liczbe: ";
     //cin >> y;
 
@@ -65,11 +88,10 @@ int main()
     //f1();
     //2
     //f2();
-    //3
-
     //4
     //cout << f4(x, y);
     //5
     //f5(x);
     //6
+    //f6(x);
 }
