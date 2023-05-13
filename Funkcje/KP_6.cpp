@@ -50,6 +50,18 @@ using namespace std;
 //}
 
 //Zad.4
+//int f4() {
+//    int a, b;
+//    int ilo = 0;
+//    for (int i = 10; i < 100; i++) {
+//        a = i % 10;
+//        b = i % 100;
+//        if (b >= 2 * a) {
+//            ilo++;
+//        }
+//    }
+//    return ilo;
+//}
 
 int main()
 {
