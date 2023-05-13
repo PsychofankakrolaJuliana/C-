@@ -89,11 +89,27 @@ using namespace std;
 //    cout << suma;
 //}
 
+//Zad.7
+//void f7(int n) {
+//    int suma = 0;
+//    int x = 2;
+//    for (int i = 0; i < n; i++) {
+//        if (i % 2 == 0) {
+//            suma = suma + x;
+//        }
+//        else {
+//            suma = suma - x;
+//        }
+//        x = x + 3;
+//    }
+//    cout << suma;
+//}
+
 int main()
 {
-    //int x, y, z;
-    //cout << "Podaj liczbe: ";
-    //cin >> x;
+    int x, y, z;
+    cout << "Podaj liczbe: ";
+    cin >> x;
     //cout << "Podaj liczbe: ";
     //cin >> y;
     //cout << "Podaj liczbe: ";
@@ -112,4 +128,6 @@ int main()
     //f5();
     //6
     //f6(x);
+    //7
+    //f7(x);
 }
