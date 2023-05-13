@@ -105,6 +105,22 @@ using namespace std;
 //    cout << suma;
 //}
 
+//Zad.8
+//void f8(int n) {
+//    int ilo = 1;
+//    int x = 1;
+//    for (int i = 0; i < n; i++) {
+//        if (i % 2 == 0) {
+//            ilo = ilo * x;
+//        }
+//        else {
+//            ilo = ilo * x * (-1);
+//        }
+//        x = x * 2;
+//    }
+//    cout << ilo;
+//}
+
 int main()
 {
     int x, y, z;
@@ -130,4 +146,6 @@ int main()
     //f6(x);
     //7
     //f7(x);
+    //8
+    //f8(x);
 }
