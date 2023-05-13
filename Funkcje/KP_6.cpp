@@ -91,6 +91,22 @@ using namespace std;
 
 //Zad.7
 //void f7(int n) {
+//    int x;
+//    int suma = 0;
+//    for (int j = 999; j > 150; j--) {
+//        if (j % 37 == 0) {
+//            x = j;
+//            break;
+//        }
+//    }
+//    for (int i = 999; i > x - n * 37; i = i - 37) {
+//        suma = suma + i;
+//    }
+//    cout << suma;
+//}
+
+//Zad.8
+//void f8(int n) {
 //    int suma = 0;
 //    int x = 2;
 //    for (int i = 0; i < n; i++) {
@@ -105,8 +121,8 @@ using namespace std;
 //    cout << suma;
 //}
 
-//Zad.8
-//void f8(int n) {
+//Zad.9
+//void f9(int n) {
 //    int ilo = 1;
 //    int x = 1;
 //    for (int i = 0; i < n; i++) {
@@ -148,4 +164,6 @@ int main()
     //f7(x);
     //8
     //f8(x);
+    //9
+    //f9(x);
 }
