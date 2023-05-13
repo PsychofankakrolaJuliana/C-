@@ -49,6 +49,8 @@ using namespace std;
 //    cout << ilo;
 //}
 
+//Zad.4
+
 int main()
 {
     //int x, y, z;
