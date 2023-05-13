@@ -137,11 +137,24 @@ using namespace std;
 //    cout << ilo;
 //}
 
+//Zad.10
+//void f10(int n) {
+//    int suma = 0;
+//    int ilo = 1;
+//    for (int i = 1; i < n; i++) {
+//        for (int j = 1; j < i; j++) {
+//            ilo = ilo * j;
+//        }
+//        suma = suma + ilo;
+//    }
+//    cout << suma;
+//}
+
 int main()
 {
-    int x, y, z;
-    cout << "Podaj liczbe: ";
-    cin >> x;
+    //int x, y, z;
+    //cout << "Podaj liczbe: ";
+    //cin >> x;
     //cout << "Podaj liczbe: ";
     //cin >> y;
     //cout << "Podaj liczbe: ";
@@ -166,4 +179,6 @@ int main()
     //f8(x);
     //9
     //f9(x);
+    //10
+    //f10(x);
 }
