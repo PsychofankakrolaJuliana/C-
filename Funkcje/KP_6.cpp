@@ -63,6 +63,23 @@ using namespace std;
 //    return ilo;
 //}
 
+//Zad.5
+//void f5() {
+//    int suma = 0;
+//    int ilo = 0;
+//    int a, b, c;
+//    for (int i = 100; i < 1000; i++) {
+//        a = i % 10;
+//        b = i % 100;
+//        c = i % 1000;
+//        if (c > a + b) {
+//            ilo++;
+//            suma = suma + i;
+//        }
+//    }
+//    cout << ilo << " i " << suma;
+//}
+
 int main()
 {
     //int x, y, z;
@@ -81,5 +98,7 @@ int main()
     //3
     //f3();
     //4
-    //f4();
+    //cout << f4();
+    //5
+    //f5();
 }
