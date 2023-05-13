@@ -31,6 +31,24 @@ using namespace std;
 //    }
 //}
 
+//Zad.3
+//void f3() {
+//    int x;
+//    int ilo = 0;
+//    for (int i = 100; i >= 50; i--) {
+//        if (i % 7 == 0) {
+//            x = i;
+//            break;
+//        }
+//    }
+//    for (int j = 1000; j < 10000; j++) {
+//        if (j % x == 0) {
+//            ilo++;
+//        }
+//    }
+//    cout << ilo;
+//}
+
 int main()
 {
     //int x, y, z;
@@ -46,4 +64,6 @@ int main()
     //f1(x, y, x);
     //2
     //f2();
+    //3
+    //f3();
 }
