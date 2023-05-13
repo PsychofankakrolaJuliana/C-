@@ -80,6 +80,15 @@ using namespace std;
 //    cout << ilo << " i " << suma;
 //}
 
+//Zad.6
+//void f6(int n) {
+//    int suma = 0;
+//    for (int i = 19; i < 19 + n * 19; i=i+19) {
+//        suma = suma + i;
+//    }
+//    cout << suma;
+//}
+
 int main()
 {
     //int x, y, z;
@@ -101,4 +110,6 @@ int main()
     //cout << f4();
     //5
     //f5();
+    //6
+    //f6(x);
 }
