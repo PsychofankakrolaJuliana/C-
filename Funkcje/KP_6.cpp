@@ -173,8 +173,19 @@ using namespace std;
 //    for (int j = 1; j <= n; j++) {
 //        m = m + j * j;
 //    }
-//    cout << l << "/" << m;
+//    cout << l / m;
 //}
+
+//Zad.13
+void f13(int n) {
+    int l = 0;
+    int m = 0;
+    int suma = 0;
+    for (int i = 2; i <= n * 2; i = i + 2) {
+        l = l + i;
+    }
+    for()
+}
 
 int main()
 {
