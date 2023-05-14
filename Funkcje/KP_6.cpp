@@ -150,11 +150,24 @@ using namespace std;
 //    cout << suma;
 //}
 
+//Zad.11
+//void f11(int n) {
+//    int l = 0;
+//    int m = 0;
+//    for (int i = 1; i < n * 2; i = i + 2) {
+//        l = l + i;
+//    }
+//    for (int j = 1; j = n; j++) {
+//        m = m + j * j;
+//    }
+//    cout << l << "/" << m;
+//}
+
 int main()
 {
-    //int x, y, z;
-    //cout << "Podaj liczbe: ";
-    //cin >> x;
+    int x, y, z;
+    cout << "Podaj liczbe: ";
+    cin >> x;
     //cout << "Podaj liczbe: ";
     //cin >> y;
     //cout << "Podaj liczbe: ";
@@ -181,4 +194,6 @@ int main()
     //f9(x);
     //10
     //f10(x);
+    //11
+    //f11(x);
 }
