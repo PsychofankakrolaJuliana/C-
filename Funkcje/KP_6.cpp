@@ -1,4 +1,5 @@
 #include <iostream>
+#include <math.h>
 using namespace std;
 //Zad.1
 //void f1(int a, int b, int c) {
@@ -202,6 +203,21 @@ using namespace std;
 //    cout << l << "/" << m;
 //}
 
+//Zad.15
+//void f15(int n) {
+//    int l = 1;
+//    double m = 1;
+//    double x = 0;
+//    for (int i = 3; i < n + 3; i++) {
+//        l = l * i;
+//    }
+//    for (double j = 0; j < n; j++) {
+//        x = x + (pow(2, j));
+//        m = m * x;
+//    }
+//    cout << l << "/" << m;
+//}
+
 int main()
 {
     int x, y, z;
@@ -241,4 +257,6 @@ int main()
     //f13(x);
     //14
     //f14(x);
+    //15
+    //f15(x);
 }
