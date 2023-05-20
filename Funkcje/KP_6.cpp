@@ -190,6 +190,17 @@ using namespace std;
 //}
 
 //Zad.14
+//void f14(int n) {
+//    int l = 0;
+//    int m = 0;
+//    for (int i = 2; i <= n * 2; i = i + 2) {
+//        l = l + i;
+//    }
+//    for (int j = 1; j <= n; j = j * j * j + 2) {
+//        m = m + j;
+//    }
+//    cout << l << "/" << m;
+//}
 
 int main()
 {
