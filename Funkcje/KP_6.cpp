@@ -1,6 +1,7 @@
 #include <iostream>
 #include <math.h>
 using namespace std;
+
 //Zad.1
 //void f1(int a, int b, int c) {
 //    if (c - b == b - a or a - b == b - c) {
@@ -218,11 +219,30 @@ using namespace std;
 //    cout << l << "/" << m;
 //}
 
+//Zad.16
+//void f16(int n) {
+//    int a = 0;
+//    int b = 1;
+//    int temp = 0;
+//    int l = 1;
+//    int m = 1;
+//    for (int i = 0; i < n; i++) {
+//        temp = a + b;
+//        a = b;
+//        b = temp;
+//        l = l * b;
+//    }
+//    for (double j = 0; j < n; j++) {
+//        m = m * (pow(2, j));
+//    }
+//    cout << l << "/" << m;
+//}
+
 int main()
 {
-    int x, y, z;
-    cout << "Podaj liczbe: ";
-    cin >> x;
+    //int x, y, z;
+    //cout << "Podaj liczbe: ";
+    //cin >> x;
     //cout << "Podaj liczbe: ";
     //cin >> y;
     //cout << "Podaj liczbe: ";
@@ -259,4 +279,6 @@ int main()
     //f14(x);
     //15
     //f15(x);
+    //16
+    //f16(x);
 }
