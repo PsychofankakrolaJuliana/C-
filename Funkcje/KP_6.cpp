@@ -177,15 +177,17 @@ using namespace std;
 //}
 
 //Zad.13
-void f13(int n) {
-    int l = 0;
-    int m = 0;
-    int suma = 0;
-    for (int i = 2; i <= n * 2; i = i + 2) {
-        l = l + i;
-    }
-    for()
-}
+//void f13(int n) {
+//    int l = 0;
+//    int m = 0;
+//    for (int i = 2; i <= n * 2; i = i + 2) {
+//        l = l + i;
+//    }
+//    for (int j = 1; j <= n; j = j * j * j + 2) {
+//        m = m + j;
+//    }
+//    cout << l << "/" << m;
+//}
 
 int main()
 {
@@ -222,4 +224,6 @@ int main()
     //f11(x);
     //12
     //f12(x);
+    //13
+    //f13(x);
 }
