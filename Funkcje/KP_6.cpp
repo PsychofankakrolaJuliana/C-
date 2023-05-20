@@ -189,6 +189,8 @@ using namespace std;
 //    cout << l << "/" << m;
 //}
 
+//Zad.14
+
 int main()
 {
     int x, y, z;
@@ -226,4 +228,6 @@ int main()
     //f12(x);
     //13
     //f13(x);
+    //14
+    //f14(x);
 }
