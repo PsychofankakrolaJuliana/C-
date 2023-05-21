@@ -27,6 +27,22 @@ using namespace std;
 //    }
 //}
 
+//Zad.3
+//bool f3(int n) {
+//    int suma = 0;
+//    for (int i = 1; i < n; i++) {
+//        if (n % i == 0) {
+//            suma = suma + i;
+//        }
+//    }
+//    if (suma == n) {
+//        return true;
+//    }
+//    else {
+//        return false;
+//    }
+//}
+
 int main()
 {
     int x, y;
@@ -40,4 +56,6 @@ int main()
     //cout << f1(x);
     //2
     //cout << f2(x);
+    //3
+    //cout << f3(x);
 }
