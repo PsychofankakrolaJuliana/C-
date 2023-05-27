@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//Zad.1
+//Zad.1 
 //int f1(int n) {
 //    int suma = 0;
 //    while (n > 0) {
