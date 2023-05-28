@@ -119,13 +119,60 @@ using namespace std;
 //    cout << a << "/" << b;
 //}
 
+//Zad.7
+//void f7(int a, int b) {
+//    int c = a / b;
+//    a = a - c * b;
+//    int n = a;
+//    int m = b;
+//    while (n != m) {
+//        if (n > m) {
+//            n = n - m;
+//        }
+//        else{
+//            m = m - n;
+//        }
+//    }
+//    a = a / n;
+//    b = b / n;
+//    cout << c << " " << a << "/" << b;
+//}
+
+//Zad.10
+//bool f(int n) {
+//    for (int i = 2; i < n; i++) {
+//        if (n % i == 0) {
+//            return false;
+//        }
+//    }
+//    return true;
+//}
+//void f10(int x) {
+//    if (f(x) == 1) {
+//        int y = x - 2;
+//        int z = x + 2;
+//        if (f(y) == 1) {
+//            cout << y;
+//        }
+//        else if (f(z) == 1) {
+//            cout << z;
+//        }
+//        else {
+//            cout << "Podana liczba nie ma bliźniaka";
+//        }
+//    }
+//    else {
+//        cout << "Podana liczba nie jest pierwsza";
+//    }
+//}
+
 int main()
 {
     int x, y;
     cout << "Podaj liczbe: ";
     cin >> x;
-    cout << "Podaj liczbe: ";
-    cin >> y;
+    //cout << "Podaj liczbe: ";
+    //cin >> y;
     
     //Odwołania
     //1
@@ -140,4 +187,8 @@ int main()
     //f5(x);
     //6
     //f6(x, y);
+    //7
+    //f7(x, y);
+    //10
+    //f10(x);
 }
