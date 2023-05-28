@@ -86,6 +86,39 @@ using namespace std;
 //    }
 //}
 
+//Zad.6
+//bool f(int a, int b) {
+//    while (a != b) {
+//        if (a > b) {
+//            a = a - b;
+//        }
+//        else{
+//            b = b - a;
+//        }
+//    }
+//    if (a == 1) {
+//        return true;
+//    }
+//    else {
+//        return false;
+//    }
+//}
+//void f6(int a, int b) {
+//    int n = a;
+//    int m = b;
+//    while (n != m) {
+//        if (n > m) {
+//            n = n - m;
+//        }
+//        else{
+//            m = m - n;
+//        }
+//    }
+//    a = a / n;
+//    b = b / n;
+//    cout << a << "/" << b;
+//}
+
 int main()
 {
     int x, y;
@@ -105,4 +138,6 @@ int main()
     //cout << f4(x, y);
     //5
     //f5(x);
+    //6
+    //f6(x, y);
 }
