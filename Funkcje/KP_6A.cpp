@@ -138,6 +138,29 @@ using namespace std;
 //    cout << c << " " << a << "/" << b;
 //}
 
+//Zad.8
+//void f8() {
+//    int sum1 = 0;
+//    int sum2 = 0;
+//    for (int i = 0; i < 10000; i++) {
+//        for (int j = 1; j < i; j++) {
+//            if (i % j == 0) {
+//                sum1 = sum1 + j;
+//            }
+//            for (int a = 0; a < 10000; a++) {
+//                for (int b = 1; b < a; b++) {
+//                    if (a % b == 0) {
+//                        sum2 = sum2 + b;
+//                    }
+//                }
+//                if (sum1 == sum2) {
+//                    cout << i << " " << a;
+//                }
+//            }
+//        }
+//    }
+//}
+
 //Zad.10
 //bool f(int n) {
 //    for (int i = 2; i < n; i++) {
@@ -168,9 +191,9 @@ using namespace std;
 
 int main()
 {
-    int x, y;
-    cout << "Podaj liczbe: ";
-    cin >> x;
+    //int x, y;
+    //cout << "Podaj liczbe: ";
+    //cin >> x;
     //cout << "Podaj liczbe: ";
     //cin >> y;
     
@@ -189,6 +212,8 @@ int main()
     //f6(x, y);
     //7
     //f7(x, y);
+    //8
+    //f8();
     //10
     //f10(x);
 }
