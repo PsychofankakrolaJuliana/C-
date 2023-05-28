@@ -43,13 +43,31 @@ using namespace std;
 //    }
 //}
 
+//Zad.4
+//bool f4(int a, int b) {
+//    while (a != b) {
+//        if (a > b) {
+//            a = a - b;
+//        }
+//        else{
+//            b = b - a;
+//        }
+//    }
+//    if (a == 1) {
+//        return true;
+//    }
+//    else {
+//        return false;
+//    }
+//}
+
 int main()
 {
     int x, y;
     cout << "Podaj liczbe: ";
     cin >> x;
     //cout << "Podaj liczbe: ";
-    //cin >> y;,
+    //cin >> y;
     
     //Odwołania
     //1
@@ -58,4 +76,6 @@ int main()
     //cout << f2(x);
     //3
     //cout << f3(x);
+    //4
+    //cout << f4(x, y);
 }
