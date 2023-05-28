@@ -61,13 +61,38 @@ using namespace std;
 //    }
 //}
 
+//Zad.5
+//bool f(int a, int b) {
+//    while (a != b) {
+//        if (a > b) {
+//            a = a - b;
+//        }
+//        else{
+//            b = b - a;
+//        }
+//    }
+//    if (a == 1) {
+//        return true;
+//    }
+//    else {
+//        return false;
+//    }
+//}
+//void f5(int n) {
+//    for (int i = 10; i < 20; i++) {
+//        if (f(i, n) == true) {
+//            cout << i << " ";
+//        }
+//    }
+//}
+
 int main()
 {
     int x, y;
     cout << "Podaj liczbe: ";
     cin >> x;
-    //cout << "Podaj liczbe: ";
-    //cin >> y;
+    cout << "Podaj liczbe: ";
+    cin >> y;
     
     //Odwołania
     //1
@@ -78,4 +103,6 @@ int main()
     //cout << f3(x);
     //4
     //cout << f4(x, y);
+    //5
+    //f5(x);
 }
