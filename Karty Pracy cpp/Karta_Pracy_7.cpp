@@ -31,6 +31,22 @@ int main() {
     //    }
     //}
     //cout << min;
+    
+    //Zad.3
+    //int maks = 0;
+    //for (int i = 0; i < l; i++) {
+    //    if (T[i] > maks) {
+    //        maks = T[i];
+    //    }
+    //}
+    //int min = 100;
+    //for (int i = 0; i < l; i++) {
+    //    if (T[i] < min) {
+    //        min = T[i];
+    //    }
+    //}
+    //int sr = maks - min;
+    //cout << sr;
 
     return 0;
 }
