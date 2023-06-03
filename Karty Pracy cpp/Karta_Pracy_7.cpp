@@ -93,6 +93,21 @@ int main() {
     //    }
     //}
     //cout << min2;
+    
+    //Zad.6
+    //int maks = 0;
+    //for (int i = 0; i < l; i++) {
+    //    if (T[i] > maks) {
+    //        maks = T[i];
+    //    }
+    //}
+    //int ilo = 0;
+    //for (int i = 0; i < l; i++) {
+    //    if (T[i] == maks) {
+    //        ilo++;
+    //    }
+    //}
+    //cout << ilo;
 
     return 0;
 }
