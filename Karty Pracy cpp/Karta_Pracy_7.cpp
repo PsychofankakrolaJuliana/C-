@@ -135,6 +135,15 @@ int main() {
     //    }
     //}
     //cout << ilo;
+    
+    //Zad.9
+    //double sr = 0;
+    //double x = 40;
+    //for (int i = 0; i < l; i++) {
+    //    sr = sr + T[i];
+    //}
+    //sr = sr / x;
+    //cout << sr;
 
     return 0;
 }
