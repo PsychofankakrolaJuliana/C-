@@ -123,6 +123,18 @@ int main() {
     //    }
     //}
     //cout << ilo;
+    
+    //Zad.8
+    //int n;
+    //cout << "Podaj liczbe: ";
+    //cin >> n;
+    //int ilo = 0;
+    //for (int i = 0; i < l; i++) {
+    //    if (T[i] == n) {
+    //        ilo++;
+    //    }
+    //}
+    //cout << ilo;
 
     return 0;
 }
