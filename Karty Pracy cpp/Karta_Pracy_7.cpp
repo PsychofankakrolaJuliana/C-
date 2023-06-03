@@ -108,6 +108,21 @@ int main() {
     //    }
     //}
     //cout << ilo;
+    
+    //Zad.7
+    //int min = 100;
+    //for (int i = 0; i < l; i++) {
+    //    if (T[i] < min) {
+    //        min = T[i];
+    //    }
+    //}
+    //int ilo = 0;
+    //for (int j = 0; j < l; j++) {
+    //    if (T[j] == min) {
+    //        ilo++;
+    //    }
+    //}
+    //cout << ilo;
 
     return 0;
 }
