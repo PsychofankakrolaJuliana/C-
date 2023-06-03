@@ -47,6 +47,29 @@ int main() {
     //}
     //int sr = maks - min;
     //cout << sr;
+    
+    //Zad.4
+    //int maks = 0;
+    //int maks2 = 0;
+    //int L[39];
+    //int x = 0;
+    //for (int i = 0; i < l; i++) {
+    //    if (T[i] > maks) {
+    //        maks = T[i];
+    //    }
+    //}
+    //for (int j = 0; j < l; j++) {
+    //    if (T[j] != maks) {
+    //        L[x] = T[j];
+    //        x++;
+    //    }
+    //}
+    //for (int i = 0; i < 39; i++) {
+    //    if (L[i] > maks2) {
+    //        maks2 = L[i];
+    //    }
+    //}
+    //cout << maks2;
 
     return 0;
 }
