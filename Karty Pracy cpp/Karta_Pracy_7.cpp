@@ -70,6 +70,29 @@ int main() {
     //    }
     //}
     //cout << maks2;
+    
+    //Zad.5
+    //int min = 100;
+    //for (int i = 0; i < l; i++) {
+    //    if (T[i] < min) {
+    //        min = T[i];
+    //    }
+    //}
+    //int min2 = 100;
+    //int L[39];
+    //int x = 0;
+    //for (int j = 0; j < l; j++) {
+    //    if (T[j] != min) {
+    //        L[x] = T[j];
+    //        x++;
+    //    }
+    //}
+    //for (int i = 0; i < 39; i++) {
+    //    if (L[i] < min2) {
+    //        min2 = L[i];
+    //    }
+    //}
+    //cout << min2;
 
     return 0;
 }
