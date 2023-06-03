@@ -144,6 +144,13 @@ int main() {
     //}
     //sr = sr / x;
     //cout << sr;
+    
+    //Zad.10
+    //int suma = 0;
+    //for (int i = 0; i < l; i = i + 2) {
+    //    suma = suma + T[i];
+    //}
+    //cout << suma;
 
     return 0;
 }
