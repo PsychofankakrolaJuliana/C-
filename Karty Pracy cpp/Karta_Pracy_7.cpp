@@ -151,6 +151,16 @@ int main() {
     //    suma = suma + T[i];
     //}
     //cout << suma;
+    
+    //Zad.11
+    //int sr = 0;
+    //int x = 0;
+    //for (int i = 1; i < l; i = i + 2) {
+    //    sr = sr + T[i];
+    //    x++;
+    //}
+    //sr = sr / x;
+    //cout << sr;
 
     return 0;
 }
