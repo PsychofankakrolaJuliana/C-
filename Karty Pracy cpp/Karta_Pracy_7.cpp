@@ -161,6 +161,23 @@ int main() {
     //}
     //sr = sr / x;
     //cout << sr;
+    
+    //Zad.12
+    //int ilo = 0;
+    //int ilo2 = 0;
+    //for (int i = 0; i < l; i++) {
+    //    for (int j = 0; j < l; j++) {
+    //        if (T[i] = T[j]) {
+    //            ilo++;
+    //        }
+    //    }
+    //    if (ilo < 2) {
+    //        ilo2++;
+    //    }
+    //    ilo = 0;
+    //}
+    //cout << ilo2;
+
 
     return 0;
 }
