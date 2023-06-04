@@ -191,6 +191,22 @@ int main() {
     //    }
     //    f = true;
     //}
+    
+    //Zad.4
+    //int ilo = 0;
+    //int x = 0;
+    //for (int i = 0; i < l; i++) {
+    //    for (int j = 0; j < l; j++) {
+    //        if (T[i] == T[j]) {
+    //            x = x + 1;
+    //        }
+    //    }
+    //    if (x > 1) {
+    //        ilo = ilo + (x - 1);
+    //    }
+    //    x = 0;
+    //}
+    //cout << ilo;
 
     return 0;
 }
