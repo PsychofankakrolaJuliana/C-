@@ -207,6 +207,28 @@ int main() {
     //    x = 0;
     //}
     //cout << ilo;
+    
+    //Zad.15
+    //int L [40];
+    //int x = 0;
+    //int temp = 0;
+    //int iold = 0;
+    //int max = 0;
+    //for (int i = 1; i < l; i++) {
+    //    iold = i - 1;
+    //    if (iold <= i) {
+    //        x == x + 1;
+    //        if (x > temp) {
+    //            temp = x;
+    //            L[i] = temp;
+    //        }
+    //    }
+    //}
+    //for (int j = 0; j < l; j++) {
+    //    if (T[j] == temp) {
+    //        cout << j << " i " << temp;
+    //    }
+    //}
 
     return 0;
 }
