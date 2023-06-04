@@ -178,6 +178,19 @@ int main() {
     //}
     //cout << ilo2;
 
+    //Zad.13
+    //bool f = true;
+    //for (int i = 10; i < 100; i++) {
+    //    for (int j = 0; j < l; j++) {
+    //        if (i == T[j]) {
+    //            f = false;
+    //        }
+    //    }
+    //    if (f = true) {
+    //        cout << i << " ";
+    //    }
+    //    f = true;
+    //}
 
     return 0;
 }
