@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
-using namespace std; 
+using namespace std;
 int main() {
     const int l = 40;
     int T[l];
