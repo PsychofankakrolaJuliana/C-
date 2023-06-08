@@ -12,7 +12,7 @@ int main() {
     for (int i = 0; i < l; i++) {
         cout << T[i] << " ";
     }
-
+ 
     //Zad.1
     //int maks = 0;
     //for (int i = 0; i < l; i++) {
