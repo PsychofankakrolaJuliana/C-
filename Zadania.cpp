@@ -37,6 +37,29 @@ int main()
 	//Zad.4
 	//Stwórz prosty kalkulator, który wczytuje dwie liczby od użytkownika i wykonuje na nich podstawowe operacje 
 	//arytmetyczne (dodawanie, odejmowanie, mnożenie, dzielenie).
+	//int a, b, c, wynik;
+	//cout << "Podaj liczbe: ";
+	//cin >> a;
+	//cout << "Podaj liczbe: ";
+	//cin >> b;
+	//cout << "1 - dodawanie\n2 - odejmowanie\n3 - mnozenie\n4 - dzielenie calkowite\n";
+	//cin >> c;
+	//if (c == 1) {
+	//	wynik = a + b;
+	//	cout << wynik;
+	//}
+	//else if (c == 2) {
+	//	wynik = a - b;
+	//}
+	//else if (c == 3) {
+	//	wynik = a * b;
+	//}
+	//else if (c == 4) {
+	//	wynik = a / b;
+	//}
+	//else {
+	//	cout << "Nie ta liczba idioto";
+	//}
 
 	//Zad.5
 	//Napisz program, który generuje losową liczbę od 1 do 100 i prosi użytkownika o zgadnięcie tej liczby. Program 
