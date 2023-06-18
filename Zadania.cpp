@@ -1,4 +1,6 @@
 #include <iostream>
+#include <cstdlib>
+#include <ctime>
 using namespace std;
 
 bool f(int n) {
@@ -9,6 +11,7 @@ bool f(int n) {
 }
 int main()
 {
+	// 1 ZESTAW ZADAN
 	//Zad.1 
 	//Napisz program, który wczytuje liczbę całkowitą od użytkownika i wyświetla jej kwadrat.
 	//double n;
@@ -64,4 +67,22 @@ int main()
 	//Zad.5
 	//Napisz program, który generuje losową liczbę od 1 do 100 i prosi użytkownika o zgadnięcie tej liczby. Program 
 	//powinien udzielać wskazówek, czy podana liczba jest za duża, za mała lub równa szukanej liczbie.
+	//srand(time(0));
+	//int x = rand() % 100 + 1;
+	//int n = 0;
+	//int np;
+	//while (n != x) {
+	//	cout << "Podaj liczbe: ";
+	//	cin >> np;
+	//	n = np;
+	//	if (n > x) {
+	//		cout << "Za duza.\n";
+	//	}
+	//	else if (n < x) {
+	//		cout << "Za mala.\n";
+	//	}
+	//	else {
+	//		cout << "Tak.\n";
+	//	}
+	//}
 }
