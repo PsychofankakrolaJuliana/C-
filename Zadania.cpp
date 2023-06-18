@@ -12,6 +12,13 @@ int main()
 
 	//Zad.2
 	//Stwórz program, który wczytuje długość boku kwadratu od użytkownika i oblicza jego pole i obwód.
+	//int pole, obw, a;
+	//cout << "Podaj dlugosc boku: ";
+	//cin >> a;
+	//pole = a * a;
+	//obw = a * 4;
+	//cout << "Pole: " << pole << "\n";
+	//cout << "Obwod: " << obw << "\n";
 
 	//Zad.3
 	//Napisz program, który sprawdza, czy podana liczba jest parzysta czy nieparzysta.
