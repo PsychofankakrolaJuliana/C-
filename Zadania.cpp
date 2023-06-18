@@ -1,5 +1,12 @@
 #include <iostream>
 using namespace std;
+
+bool f(int n) {
+	if (n % 2 == 0) {
+		return true;
+	}
+	return false;
+}
 int main()
 {
 	//Zad.1 
@@ -22,6 +29,10 @@ int main()
 
 	//Zad.3
 	//Napisz program, który sprawdza, czy podana liczba jest parzysta czy nieparzysta.
+	//int n;
+	//cout << "Podaj n: ";
+	//cin >> n;
+	//cout << f(n);
 
 	//Zad.4
 	//Stwórz prosty kalkulator, który wczytuje dwie liczby od użytkownika i wykonuje na nich podstawowe operacje 
