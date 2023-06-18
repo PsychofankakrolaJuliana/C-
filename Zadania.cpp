@@ -12,6 +12,7 @@ bool f(int n) {
 int main()
 {
 	// 1 ZESTAW ZADAN
+	
 	//Zad.1 
 	//Napisz program, który wczytuje liczbę całkowitą od użytkownika i wyświetla jej kwadrat.
 	//double n;
@@ -85,4 +86,28 @@ int main()
 	//		cout << "Tak.\n";
 	//	}
 	//}
+
+
+	// 2 ZESTAW ZADAN
+	
+	//Zad.1
+	//Napisz program, który znajduje wszystkie liczby pierwsze w zakresie od 1 do N, gdzie N jest wprowadzaną przez 
+	//użytkownika liczbą.
+
+	//Zad.2
+	//Zaimplementuj algorytm sortowania przez scalanie(merge sort), który sortuje tablicę liczb całkowitych w 
+	//kolejności rosnącej.
+
+	//Zad.3
+	//Stwórz klasę "KontoBankowe" z metodami do wpłaty, wypłaty i sprawdzenia salda. Dodaj obsługę wielu kont 
+	//bankowych, przechowywanych w tablicy lub liście.
+
+	//Zad.4
+	//Napisz program, który znajduje najdłuższy wspólny podciąg (LCS) dwóch ciągów znaków wprowadzanych przez 
+	//użytkownika. LCS to najdłuższy ciąg znaków, który występuje jednocześnie w obu ciągach.
+
+	//Zad.5
+	//Zaimplementuj grę w wisielca, w której komputer losowo wybiera słowo, a użytkownik ma za zadanie zgadnąć je 
+	//poprzez podawanie liter. Program powinien śledzić liczbę prób i wyświetlać stan wisielca po nieudanych próbach.
+
 }
