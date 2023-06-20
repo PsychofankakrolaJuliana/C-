@@ -12,7 +12,7 @@ bool f(int n) {
 int main()
 {
 	// 1 ZESTAW ZADAN
-	
+	 
 	//Zad.1 
 	//Napisz program, który wczytuje liczbę całkowitą od użytkownika i wyświetla jej kwadrat.
 	//double n;
