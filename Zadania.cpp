@@ -93,6 +93,14 @@ int main()
 	//Zad.1
 	//Napisz program, który znajduje wszystkie liczby pierwsze w zakresie od 1 do N, gdzie N jest wprowadzaną przez 
 	//użytkownika liczbą.
+	//int n;
+	//cout << "Podaj n: ";
+	//cin >> n;
+	//for (int i = 1; i < n; i++) {
+	//	if (f2(i) == 1) {
+	//		cout << i << " ";
+	//	}
+	//}
 
 	//Zad.2
 	//Zaimplementuj algorytm sortowania przez scalanie(merge sort), który sortuje tablicę liczb całkowitych w 
