@@ -86,4 +86,31 @@ int main()
 	//		cout << "Tak.\n";
 	//	}
 	//}
+
+
+	//ZADNIA Z KSIAZKI
+	
+	//Tablice
+	
+	//Zad.1
+	//srand(time(0));
+	//int T[8];
+	//int suma = 0;
+	//for (int c = 0; c < 8; c++) {
+	//	T[c] = rand() % 10 + 0;
+	//}
+	//for (int i = 0; i < 8; i++) {
+	//	suma = suma + T[i];
+	//}
+	//int x = suma = suma / 8;
+	//cout << x << "\n";
+	//if (x > 5) {
+	//	cout << "Wieksza od 5.";
+	//}
+	//else if (x == 5) {
+	//	cout << "Rowna 5.";
+	//}
+	//else {
+	//	cout << "Mniejsza od 5.";
+	//}
 }
