@@ -123,4 +123,18 @@ int main()
 	//		cout << T[i] << " ";
 	//	}
 	//}
+
+	//Zad.3
+	//srand(time(0));
+	//int T[50];
+	//int ilo = 0;
+	//for (int i = 0; i < 50; i++) {
+	//	T[i] = rand() % 50 + 1;
+	//	if (T[i] % 2 == 0) {
+	//		cout << T[i] << " ";
+	//		ilo++;
+	//	}
+	//}
+	//cout << "\n";
+	//cout << ilo;
 }
