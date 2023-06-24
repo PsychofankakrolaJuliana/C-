@@ -137,4 +137,21 @@ int main()
 	//}
 	//cout << "\n";
 	//cout << ilo;
+
+	//Zad.4
+	//srand(time(0));
+	//int T[80];
+	//int suma = 0;
+	//int ilo = 0;
+	//for (int i = 0; i < 80; i++) {
+	//	T[i] = rand() % 80 + 1;
+	//	if (T[i] >= 10 && T[i] <= 50) {
+	//		cout << T[i] << " ";
+	//		suma = suma + T[i];
+	//		ilo++;
+	//	}
+	//}
+	//cout << "\n";
+	//cout << suma / ilo;
+}
 }
