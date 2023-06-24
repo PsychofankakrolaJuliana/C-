@@ -113,4 +113,14 @@ int main()
 	//else {
 	//	cout << "Mniejsza od 5.";
 	//}
+
+	//Zad.2
+	//srand(time(0));
+	//int T[10];
+	//for (int i = 0; i < 10; i++) {
+	//	T[i] = rand() % 500 + 1;
+	//	if (T[i] % 2 == 0 and T[i] % 3 == 0) {
+	//		cout << T[i] << " ";
+	//	}
+	//}
 }
