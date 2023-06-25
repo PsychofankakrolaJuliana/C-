@@ -198,4 +198,29 @@ int main()
 	//	}
 	//}
 	//cout << suma;
+
+	//Zad.9
+	//int T[10];
+	//bool a = true;
+	//bool b = true;
+	//for (int j = 0; j < 10; j++) {
+	//	T[j] = rand();
+	//}
+	//for (int i = 3; i < 10; i++) {
+	//	if (T[i] != T[i - 1] + T[i - 2]) {
+	//		a = false;
+	//	}
+	//	if ((T[i] < 0 and T[i - 1] >= 0 and T[i - 2] < 0) or (T[i] >= 0 and T[i - 1] < 0 and T[i - 2] >= 0)) {
+	//		b = false;
+	//	}
+	//}
+	//if (a == true) {
+	//	cout << "Ciag jest arytmetyczy.";
+	//}
+	//else if (b == true) {
+	//	cout << "Ciag jest naprzemienny";
+	//}
+	//else{
+	//	cout << "Ciag nie jest ani art ani nap.";
+	//}
 }
