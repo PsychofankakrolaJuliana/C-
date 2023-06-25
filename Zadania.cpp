@@ -180,4 +180,22 @@ int main()
 	//	}
 	//	cout << T[j] << " , ";
 	//}
+
+	//Zad.8
+	//srand(time(0));
+	//int T[10];
+	//for (int i = 0; i < 10; i++) {
+	//	T[i] = rand();
+	//	cout << T[i] << " ";
+	//}
+	//cout << "\n";
+	//int suma = 0;
+	//int x;
+	//for (int i = 0; i < 10; i++) {
+	//	x = pow(T[i], 2);
+	//	if (x % 4 == 2 || x < 0) {
+	//		suma = suma + x;
+	//	}
+	//}
+	//cout << suma;
 }
