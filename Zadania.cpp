@@ -153,5 +153,16 @@ int main()
 	//}
 	//cout << "\n";
 	//cout << suma / ilo;
-}
+	
+	//Zad.5
+	//int T[50];
+	//srand(time(0));
+	//for (int i = 0; i < 50; i++) {
+	//	T[i] = rand() % 100 + 1;
+	//	for (float j = 0; j < 10; j++) {
+	//		if (pow(j, 2) == i) {
+	//			cout << T[i] << " ";
+	//		}
+	//	}
+	//}
 }
