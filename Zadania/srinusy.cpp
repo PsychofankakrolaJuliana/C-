@@ -9,7 +9,7 @@ bool CzyTrojkat(int a, int b, int c) {
         return true;
     }
     return false;
-}
+} 
 int main()
 {
     bool flaga = false;
