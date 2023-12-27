@@ -1,9 +1,6 @@
 #include <iostream>
 using namespace std;
-int main()
-{
-    #include <iostream>
-using namespace std;
+//NIE DZIALA (WORK IN PROGRES)(PROGRES=0)(JEBAC MATME)(KOCHAM KAKAO)
 bool CzyTrojkat(int a, int b, int c) {
     if (a + b > c or a + c > b or b + c > a) {
         return true;
